@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="简体中文"/>
+ </tags>
+ <strings>
+  <string id="Erin0001" text="自治领农民" />
+  <string id="Erin0002" text="雷恩弗德武装民兵" />
+  <string id="Erin0003" text="雷恩弗德轻步兵" />
+  <string id="Erin0004" text="雷恩弗德戍卫步兵" />
+  <string id="Erin0005" text="雷恩弗德民兵射手" />
+  <string id="Erin0006" text="雷恩弗德游击射手" />
+  <string id="Erin0007" text="雷恩弗德长弓手" />
+  <string id="Erin0008" text="雷恩弗德重步兵" />
+  <string id="Erin0009" text="雷恩弗德英勇长弓手" />
+  <string id="Erin0009" text="雷恩弗德英勇长弓手" />
+  <string id="Nordvisa0001" text="北地部落民" />
+  <string id="Nordvisa0002" text="诺德维萨武装樵夫" />
+  <string id="Nordvisa0003" text="诺德维萨部族勇士" />
+  <string id="Nordvisa0004" text="诺德维萨部族敢战士" />
+  <string id="Nordvisa0005" text="诺德维萨突阵勇士" />
+  <string id="Nordvisa0006" text="诺德维萨呼啸奔袭者" />
+  <string id="Nordvisa0007" text="诺德维萨武装渔民" />
+  <string id="Nordvisa0008" text="诺德维萨散兵勇士" />
+  <string id="Nordvisa0009" text="诺德维萨掷斧战士" />
+  <string id="Nordvisa0010" text="诺德维萨精锐掷斧战士" />
+  <string id="Nordvisa0011" text="诺德维萨狂风投掷者" />
+ </strings>
+</base>

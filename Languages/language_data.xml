@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="English">
+	<VoiceFile xml_path="VoicedLines/tor_voiced_lines_en.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL__settlements_xml-1.xml" />
+	<VoiceFile xml_path="VoicedLines/SkiOL__settlements_xml-2.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_arms_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_bandits_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_item_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/std_module_strings_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/std_settlements_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/std_uitext_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_equipments_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_formulas_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_gather_tools_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_material_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_sp_items_xml.xml" />
+    <VoiceFile xml_path="VoicedLines/SkiOL_intro_xml.xml" />
+	<VoiceFile xml_path="VoicedLines/SkiOL_area_xml.xml" />
+</LanguageData>

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+   <tag language="简体中文"/>
+ </tags>
+ <strings>
+   <string id="Erin" text="艾瑞恩"/>
+   <string id="Nordvisa" text="诺德维萨"/>
+   <string id="Renford" text="雷恩弗德"/>
+
+   <string id="Infantry" text="步兵"/>
+   <string id="Ranged" text="射手"/>
+   <string id="HorseArcher" text="弓骑兵"/>
+   <string id="Cavalry" text="骑兵"/>
+
+   <string id="Athletics" text="跑动"/>
+   <string id="Riding" text="骑术"/>
+   <string id="Bow" text="弓箭"/>
+   <string id="Crossbow" text="弩"/>
+   <string id="Throwing" text="投掷"/>
+   <string id="OneHanded" text="单手"/>
+   <string id="TwoHanded" text="双手"/>
+   <string id="Polearm" text="长杆"/>
+
+
+   <string id="Factionfavor" text="派系好感度:"/>
+   <string id="Merit" text="功勋:"/>
+    <string id="Merit1" text="功勋"/>
+   <string id="General" text="一般"/>
+   <string id="Elite" text="精锐"/>
+   <string id="Special" text="特殊"/>
+   <string id="Hatred" text="仇恨"/>
+   <string id="Hostile" text="敌对"/>
+   <string id="Aloof" text="冷淡"/>
+   <string id="Neutral" text="中立"/>
+   <string id="Friendly" text="友好"/>
+   <string id="Intimate" text="亲密"/>
+   <string id="Trust" text="信任"/>
+   <string id="Respect" text="尊敬"/>
+   <string id="Admiration" text="崇拜"/>
+   <string id="FlagText" text="旗帜"/>
+   <string id="FavorText" text="好感度"/>
+   <string id="FactionText" text="派系名"/>
+   <string id="LockText" text="未解锁"/>
+   <string id="TroopRankText" text="兵种等级:"/>
+   <string id="RankText" text="级"/>
+   <string id="MeritHintText" text="用途：可用于在宫廷主管处兑换物品、解锁兵种、兑换或升级特殊兵种等。"/>
+   <string id="NeedExp" text="所需经验"/>
+   <string id="NeedMoney" text="所需第纳尔"/>
+   <string id="UnlockCondition" text="解锁条件"/>
+   <string id="TroopNolock" text="低阶兵种未解锁"/>
+   <string id="NoMerit" text="功勋不足"/>
+   <string id="Canlock" text="可解锁"/>
+   <string id="FactionBig" text="派系好感度≥"/>
+   <string id="NotroopText" text="当前暂无兵种，敬请期待。"/>
+   <string id="GroupText" text="组别"/>
+   <string id="OnlineText" text="在线游戏"/>
+   <string id="SikaOnlineText" text="希绝OL服务器"/>
+
+   <!-- 伙伴UI -->
+    <string id="Renford_0_01" text="杜尔迦" />
+    <string id="Renford_0_02" text="阿莎" />
+    <string id="Renford_0_03" text="阿伊莎" />
+    <string id="Renford_0_04" text="法蒂玛" />
+    <string id="Renford_0_05" text="阿米拉" />
+    <string id="Renford_0_06" text="格蕾丝" />
+    <string id="Renford_0_07" text="伊莎" />
+    <string id="Renford_0_08" text="巴瓦娜" />
+    <string id="Renford_0_09" text="伊尔沙" />
+    <string id="Renford_0_10" text="玛努伊尔" />
+    <string id="Renford_0_11" text="艾咪伊" />
+    <string id="Renford_0_12" text="瓦尔纳" />
+    <string id="Renford_0_13" text="安娜丽" />
+    <string id="Renford_0_14" text="卡维娅" />
+    <string id="Renford_0_15" text="阿娜尼亚" />
+    <string id="Erin_0_01" text="梅利赫尔" />
+    <string id="Erin_0_02" text="赫莲安娜" />
+    <string id="Erin_0_03" text="阿尔多芙蕾" />
+    <string id="Erin_0_04" text="艾莉西亚" />
+    <string id="Erin_0_05" text="薇安德拉" />
+    <string id="Erin_0_06" text="卡丽亚娜" />
+    <string id="Erin_0_07" text="洛瑞艾尔" />
+    <string id="Erin_0_08" text="赛尔芙琳" />
+    <string id="Erin_0_09" text="弗莉安娜" />
+    <string id="Erin_0_10" text="玛尔赛拉" />
+    <string id="Erin_0_11" text="维克托莉亚" />
+    <string id="Erin_0_12" text="希尔薇安" />
+    <string id="Erin_0_13" text="迪安菲拉" />
+    <string id="Erin_0_14" text="诺尔维雅" />
+    <string id="Erin_0_15" text="琳达瑞娜" />
+    <string id="Viking_0_01" text="阿斯特丽德" />
+    <string id="Viking_0_02" text="英格丽德" />
+    <string id="Viking_0_03" text="赫尔加" />
+    <string id="Viking_0_04" text="莉芙" />
+    <string id="Viking_0_05" text="卡莉" />
+    <string id="Viking_0_06" text="基莎" />
+    <string id="Viking_0_07" text="希瓦娜" />
+    <string id="Viking_0_08" text="斯瓦西" />
+    <string id="Viking_0_09" text="米兰卡" />
+    <string id="Viking_0_10" text="阿塔纳" />
+    <string id="Viking_0_11" text="史瓦尼" />
+    <string id="Viking_0_12" text="布蕾尔" />
+    <string id="Viking_0_13" text="阿莎米" />
+    <string id="Viking_0_14" text="嘉尔赫" />
+    <string id="Viking_0_15" text="拉索卡" />
+    <string id="Renford_1_01" text="苏尼尔" />
+    <string id="Renford_1_02" text="阿米特" />
+    <string id="Renford_1_03" text="沙鲁克" />
+    <string id="Renford_1_04" text="巴强" />
+    <string id="Renford_1_05" text="库玛尔" />
+    <string id="Renford_1_06" text="阿克谢" />
+    <string id="Renford_1_07" text="萨尔曼" />
+    <string id="Renford_1_08" text="罗斯汉" />
+    <string id="Renford_1_09" text="辛格" />
+    <string id="Renford_1_10" text="迦因" />
+    <string id="Renford_1_11" text="萨尔特" />
+    <string id="Renford_1_12" text="库克汗" />
+    <string id="Renford_1_13" text="阿曼特" />
+    <string id="Renford_1_14" text="拉杰" />
+    <string id="Renford_1_15" text="阿克苏" />
+    <string id="Erin_1_01" text="路易斯" />
+    <string id="Erin_1_02" text="贝尔特" />
+    <string id="Erin_1_03" text="奥克西" />
+    <string id="Erin_1_04" text="奥利弗" />
+    <string id="Erin_1_05" text="赫尔曼" />
+    <string id="Erin_1_06" text="安德鲁" />
+    <string id="Erin_1_07" text="马修" />
+    <string id="Erin_1_08" text="迪克森" />
+    <string id="Erin_1_09" text="哈里桑" />
+    <string id="Erin_1_10" text="杰弗利" />
+    <string id="Erin_1_11" text="卢卡斯" />
+    <string id="Erin_1_12" text="伊尔森" />
+    <string id="Erin_1_13" text="埃利森" />
+    <string id="Erin_1_14" text="德雷翁" />
+    <string id="Erin_1_15" text="卡桑帝" />
+    <string id="Viking_1_01" text="奥拉夫" />
+    <string id="Viking_1_02" text="比约恩" />
+    <string id="Viking_1_03" text="伊瓦尔" />
+    <string id="Viking_1_04" text="乌尔夫" />
+    <string id="Viking_1_05" text="罗尔夫" />
+    <string id="Viking_1_06" text="约里克" />
+    <string id="Viking_1_07" text="奥温斯" />
+    <string id="Viking_1_08" text="瓦尔郎" />
+    <string id="Viking_1_09" text="朗瓦德" />
+    <string id="Viking_1_10" text="维达尔" />
+    <string id="Viking_1_11" text="乌尔克利" />
+    <string id="Viking_1_12" text="奥德恩" />
+    <string id="Viking_1_13" text="芬比亚" />
+    <string id="Viking_1_14" text="纳达尔" />
+    <string id="Viking_1_15" text="罗沃尔" />
+
+     <string id="title_0001" text="巧手" />
+<string id="title_0002" text="懒鬼" />
+<string id="title_0003" text="野人" />
+<string id="title_0004" text="老兵" />
+<string id="title_0005" text="劳工" />
+<string id="title_0006" text="好手" />
+<string id="title_0007" text="铁壁" />
+<string id="title_0008" text="绿林" />
+<string id="title_0009" text="健壮" />
+<string id="title_0010" text="金币" />
+<string id="title_0011" text="公牛" />
+<string id="title_0012" text="野牛" />
+<string id="title_0013" text="猎隼" />
+<string id="title_0014" text="游隼" />
+<string id="title_0015" text="独眼" />
+<string id="title_0016" text="金牙" />
+<string id="title_0017" text="锐眼" />
+<string id="title_0018" text="金发" />
+<string id="title_0019" text="红发" />
+<string id="title_0020" text="斜眼" />
+<string id="title_0021" text="暴牙" />
+<string id="title_0022" text="目盲" />
+<string id="title_0023" text="尊贵" />
+<string id="title_0024" text="勤劳" />
+<string id="title_0025" text="夜莺" />
+<string id="title_0026" text="灵巧" />
+<string id="title_0027" text="先驱" />
+<string id="title_0028" text="迅足" />
+<string id="title_0029" text="金刚" />
+<string id="title_0030" text="醉鬼" />
+<string id="title_0031" text="流莺" />
+<string id="title_0032" text="疤脸" />
+<string id="title_0033" text="荆棘" />
+<string id="title_0034" text="跛足" />
+<string id="title_0035" text="纤细" />
+<string id="title_0036" text="褐发" />
+<string id="title_0037" text="虔诚" />
+<string id="title_0038" text="癫狂" />
+<string id="title_0039" text="狂徒" />
+<string id="title_0040" text="警觉" />
+<string id="title_0041" text="黑手" />
+<string id="title_0042" text="机巧" />
+<string id="title_0043" text="铁胃" />
+<string id="title_0044" text="冷面" />
+<string id="title_0045" text="黑狗" />
+<string id="title_0046" text="铁锤" />
+<string id="title_0047" text="铁镐" />
+<string id="title_0048" text="烂疮" />
+<string id="title_0049" text="水手" />
+<string id="title_0050" text="血手" />
+<string id="title_0051" text="仁慈" />
+<string id="title_0052" text="雌豹" />
+<string id="title_0053" text="战士" />
+<string id="title_0054" text="孤儿" />
+<string id="title_0055" text="蛮子" />
+<string id="title_0056" text="勇士" />
+<string id="title_0057" text="阴毒" />
+<string id="title_0058" text="碎嘴" />
+<string id="title_0059" text="丧钟" />
+<string id="title_0060" text="细柳" />
+<string id="title_0061" text="狠辣" />
+<string id="title_0062" text="残暴" />
+<string id="title_0063" text="斗士" />
+
+
+    <!-- ui部分 -->
+<string id="partner_ui_level" text="角色等级:" />
+<string id="partner_ui_birth" text="出生背景:" />
+<string id="partner_ui_culture" text="角色文化:" />
+<string id="partner_ui_favor" text="当前好感:" />
+<string id="partner_ui_character" text="性格:" />
+<string id="partner_ui_traits" text="特质:" />
+<string id="partner_ui_skill" text="技能专精:" />
+<string id="partner_ui_loyal" text="忠诚:" />
+<string id="partner_ui_effect" text="效果:" />
+<string id="DoneText" text="完成" />
+<string id="partner_ui_0001" text="当前好感:" />
+<string id="partner_ui_0002" text="专精" />
+<string id="partner_ui_0003" text="技能" />
+<string id="partner_ui_0004" text="这个角色没有什么突出的个性，态度不偏不倚。" />
+<string id="partner_ui_0005" text="好感变化{num1},所需薪资{num2}" />
+      <!-- 家族UI -->
+      <string id="Family_ChangeFlag1" text="点击可以修改旗帜!"/>
+      <string id="Family_ChangeFlag2" text="只有领袖才可以修改旗帜!"/>
+      <string id="Family_Influence" text="影响力 "/>
+      <string id="Family_NextLevel" text="下一级别:"/>
+      <string id="Family_Daily" text="今日消耗:"/>
+      <string id="Family_Get" text="今日获得:"/>
+      <string id="Family_Member" text="成员"/>
+      <string id="Family_Land" text="领地"/>
+      <string id="Family_Diplomacy" text="外交"/>
+      <string id="Family_Dissolution" text="解散家族"/>
+      <string id="Family_Leave" text="离开家族"/>
+      <string id="Family_Pop_famliy" text="你还未加入任何家族"/>
+      <string id="Family_Pop_create" text="去创建家族"/>
+      <string id="Family_Pop_Search" text="搜索要加入的家族"/>
+      <string id="Family_Pop_No" text="无搜索结果"/>
+      <string id="Family_Pop_Apply" text="申请加入"/>
+      <string id="Family_Pop_Close" text="关闭"/>
+      <string id="Family_Pop_ClickCreate" text="点击创建家族"/>
+      <string id="Family_Pop_CreateTip" text="需要:玩家等级5"/>
+      <string id="Family_Pop_AllApply" text="已申请"/>
+      <string id="Family_Pop_Tip" text="由于您刚退出家族,24小时内不可再次加入。"/>
+      <string id="Family_PopCreate_city" text="城市"/>
+      <string id="Family_PopCreate_consunme" text="拥有第纳尔:"/>
+      <string id="Family_PopCreate_create" text="创建你的家族"/>
+      <string id="Family_PopCreate_chooseflag" text="选择旗帜"/>
+      <string id="Family_PopCreate_rule" text="命名规则：家族名称不得包含违禁词。不可包含特殊符号。"/>
+      <string id="Family_PopCreate_rule1" text="中文字符不超过6个，英文字符不超过12个。"/>
+      <string id="Family_PopCreate_choosecity" text="选择家族所属城市"/>
+      <string id="Family_PopCreate_NotDiner" text="您的第纳尔不足，无法创建。"/>
+      <string id="Family_PopCreate_previous" text="上一步"/>
+      <string id="Family_PopCreate_createtext" text="创建"/>
+      <string id="Family_PopCreate_tipcity" text="您还没有选择家族所属城市！"/>
+      <string id="Family_PopCreate_tip1" text="命名不符合规范！"/>
+      <string id="Family_PopCreate_tip2" text="包含敏感词汇，请更改！"/>
+      <string id="Family_PopCreate_tip3" text="输入为空!"/>
+      <string id="Family_PopCreate_tip4" text="当前名称过长!"/>
+      <string id="Family_PopCreate_name" text="家族命名"/>
+      <string id="Family_PopCreate_namecreate" text="家族名字为空，无法创建。"/>
+      <string id="yes" text="是"/>
+      <string id="no" text="否"/>
+      <string id="Confirm" text="确定"/>
+      <string id="Cancel" text="取消"/>
+      <string id="Family_Open" text="开启加成需要消耗影响力，确认开启吗?"/>
+      <string id="Family_costinfluence" text="影响力消耗"/>
+      <string id="Family_continetime" text="持续时间:"/>
+      <string id="Hour" text="小时"/>
+      <string id="Family_quitsure" text="确定要退出家族吗？"/>
+      <string id="Family_quitsuretip" text="退出后，24小时内不可再次加入家族"/>
+      <string id="Family_dissolve" text="确定要解散家族吗?"/>
+      <string id="Family_dissolveMember" text="解散后将清除所有成员"/>
+      <string id="Family_con" text="确定要进行捐献吗"/>
+      <string id="Family_EveryAll" text="每日上限"/>
+      <string id="Family_changeName" text="修改家族名称"/>
+      <string id="Family_levelup" text="确定要进行家族升级吗?"/>
+      <string id="Family_poolinfluence" text="当前家族共有影响力"/>
+      <string id="Family_CostfamilyInfluence" text="消耗家族影响力"/>
+      <string id="Family_0001" text="收到的申请信息"/>
+      <string id="Family_0002" text="家族成员"/>
+      <string id="Family_0003" text="当前暂无申请消息"/>
+      <string id="Family_0004" text="角色等级:"/>
+      <string id="Family_0005" text="同意"/>
+      <string id="Family_0006" text="忽略"/>
+      <string id="Family_0007" text="家族已满"/>
+      <string id="Family_0008" text="家族成员已满，无法添加!"/>
+      <string id="Family_0009" text="在线"/>
+      <string id="Family_0010" text="离线"/>
+      <string id="Family_0011" text="任命"/>
+      <string id="Family_0012" text="踢出"/>
+      <string id="Family_0013" text="领袖"/>
+      <string id="Family_0014" text="副领袖"/>
+      <string id="Family_0015" text="元老"/>
+      <string id="Family_0016" text="骨干"/>
+      <string id="Family_0017" text="成员"/>
+
+      <string id="Family_0018" text="头像"/>
+      <string id="Family_0019" text="名字"/>
+      <string id="Family_0020" text="职位"/>
+      <string id="Family_0021" text="今日贡献"/>
+      <string id="Family_0022" text="状态"/>
+      <string id="Family_0023" text="提供加成"/>
+      <string id="Family_0024" text="开启加成"/>
+      <string id="Family_0025" text="捐献"/>
+      <string id="Family_0026" text="家族公告"/>
+      <string id="Family_0027" text="家族日志"/>
+      <string id="Family_0028" text="申请"/>
+      <string id="Family_0029" text="设置"/>
+      <string id="Family_0030" text="升级"/>
+      <string id="Family_0031" text="加成未开启"/>
+      <string id="Family_0032" text="家族设置"/>
+      <string id="Family_0033" text="修改家族公告"/>
+      <string id="Family_0034" text="应用"/>
+      <string id="Family_0035" text="你要将该玩家的职位调整为:"/>
+      
+      <string id="Family_0036" text="{WEEK}周前在线"/>
+      <string id="Family_0037" text="{DAY}天前在线"/>
+      <string id="Family_0038" text="刚刚在线"/>
+      <string id="Family_0039" text="{HOUR}小时前在线"/>
+      <string id="Family_0040" text="家族"/>
+      <string id="Family_0041" text="影响力捐献"/>
+      <string id="Family_0042" text="您的影响力为0，无法捐献!"/>
+      <string id="Family_0043" text="今日影响力捐献已达上限，请明日在进行捐献!"/>
+      <string id="Family_0044" text="旗帜发生错误，创建失败"/>
+      <string id="Family_0045" text="您未获得古老荣誉的象征，无法创建家族"/>
+
+      <string id="Family_0046" text="点击修改家族名称"/>
+      <string id="Family_0047" text="只有领袖才可以修改家族名称"/>
+      <string id="Family_0048" text="同伴上限"/>
+      <string id="Family_0049" text="部队上限"/>
+      <string id="Family_0050" text="英雄经验"/>
+      <string id="Family_0051" text="伙伴经验"/>
+      <string id="Family_0052" text="士兵经验"/>
+      <string id="Family_0053" text="解散家族"/>
+      <string id="Family_0054" text="脱离家族"/>
+      <string id="Family_0055" text="无法修改旗帜"/>
+      <string id="Family_0056" text="您家族的影响力小于500，无法修改旗帜"/>
+      <string id="Family_0057" text="请选择家族所属城市"/>
+      <string id="Family_0058" text="所属城市:"/>
+      <string id="Family_0059" text="敬请期待"/>
+      <string id="Family_0060" text="管理"/>
+      <string id="Family_0061" text="排行"/>
+      <string id="Family_0062" text="名称重复!"/>
+       <!-- Conversation-UI -->
+      <string id="Con_and" text="及"/>
+      <string id="Con_cost" text="花费"/>
+      <string id="Con_continue" text="点击任意位置继续"/>
+
+      <!-- Chat-UI -->
+      <string id="Chat_Tip" text="请按“Enter”隐藏"/>
+      <string id="Chat_type1" text="全服"/>
+      <string id="Chat_type2" text="贸易"/>
+      <string id="Chat_type3" text="私聊"/>
+      <string id="Chat_type4" text="战场"/>
+      <string id="Chat_type5" text="系统"/>
+      <string id="Chat_type6" text="组队"/>
+      <string id="Chat_type7" text="附近"/>
+      <string id="Chat_tip1" text="当前频道已屏蔽，请打开后再尝试发言"/>
+      <string id="Chat_tip3" text="您的发言过于频繁！"/>
+
+
+      <!-- EveryDay-UI -->
+      <string id="Every_title" text="玩家活跃馈礼"/>
+      <string id="Every_text1" text="活动说明:完成每日活跃任务可获得活跃点数，达成点数领取每日活跃宝箱和其他奖品，当达到一定累计点数后还可领取珍贵奖品。"/>
+      <string id="Every_rule" text="活动规则：每日活跃点数00: 00重置"/>
+      <string id="Every_all" text="累计活跃度"/>
+      <string id="Every_Today" text="今日活跃度"/>
+      <string id="Every_logGet" text="登录即领"/>
+      <string id="Every_activation" text="活跃度"/>
+      <string id="Every_bagfull" text="背包已满"/>
+      <string id="Inventory_full" text="您的背包物品已达上限，无法领取物品。"/>
+      <string id="Inventory_full1" text="背包已满，请清理后在兑换。"/>
+      <string id="Completed_text" text="已完成"/>
+      <string id="Progress_text" text="进行中"/>
+      <string id="Durability_text" text="耐久度"/>
+      <string id="ItemDescription_text" text="物品说明"/>
+      <string id="None_text" text="暂无"/>
+      <string id="Every_item1" text="某个神秘藏宝图的碎片之一"/>
+      <string id="ItemType" text="粗制"/>
+      <string id="ItemType1" text="优良"/>
+      <string id="ItemType2" text="精锻"/>
+      <string id="ItemType3" text="稀有"/>
+      <string id="ItemType4" text="珍奇"/>
+      <string id="ItemType5" text="史诗"/>
+      <string id="ItemType6" text="传说"/>
+      <string id="ItemType7" text="神器"/>
+      <string id="Every_mission" text="活跃任务"/>
+      <string id="Every_mission1" text="任务描述"/>
+      <string id="Every_mission2" text="进度"/>
+      <string id="Every_mission3" text="活跃度"/>
+      <string id="Every_mission4" text="状态"/>
+      <string id="Every_mission5" text="已领取"/>
+      <string id="Every_mission6" text="一键领取"/>
+      <string id="Every_boxHInt01" text="每日活跃度赠送宝箱"/>
+      <string id="Every_boxHInt02" text="可以开出多种稀有物品."/>
+      <string id="Every_diner" text="第纳尔"/>
+      <string id="Every_cdkhint" text="希绝OL内测兑换码"/>
+      <string id="Every_cdkhint1" text="可在MOD正式上线后兑换指定物品"/>
+      <string id="Every_dinerhint" text="通用货币"/>
+      <string id="Every_dinerhint2" text="可用于在商人处购买物品"/>
+      <string id="Every_merit11" text="艾瑞恩王国功勋"/>
+      <string id="Every_merit12" text="可用来解锁兵种"/>
+
+
+      <string id="danger_1" text="危险区域"/>
+      <string id="danger_2" text="离开危险区域"/>
+
+      <!--CDK-->
+      <string id="CDK_hint" text="CDK兑换"/>
+      <string id="CDK_Input" text="输入兑换码"/>
+      <string id="CDK_Text" text="请输入CDK兑换码"/>
+      <string id="CDK_erro" text="兑换失败"/>
+      <string id="CDK_nobag" text="请预留足够的背包空间"/>
+      <string id="CDK_know" text="知道了"/>
+      <string id="OneAxe" text="单手斧"/>
+      <string id="OneSword" text="单手剑"/>
+      <string id="Mace" text="杖"/>
+      <string id="Dagger" text="匕首"/>
+      <string id="Pike" text="长矛"/>
+      <string id="Tool" text="工具"/>
+      <string id="TwoHandedAxe" text="双手斧"/>
+      <string id="TwoHandedSword" text="双手剑"/>
+      <string id="TwoHandedMace" text="双手杖"/>
+      <string id="TwoHandedPolearm" text="双手长柄武器"/>
+      <string id="Bow" text="弓"/>
+      <string id="Crossbow" text="弩"/>
+      <string id="Arrow" text="箭"/>
+      <string id="Bolt" text="弩箭"/>
+      <string id="Javelin" text="标枪"/>
+      <string id="ThrowingAxe" text="投掷斧"/>
+      <string id="ThrowingKnife" text="飞刀"/>
+      <string id="Shield" text="盾牌"/>
+      <string id="HeadArmor" text="头甲"/>
+      <string id="Cape" text="披风"/>
+      <string id="BodyArmor" text="身甲"/>
+      <string id="HandArmor" text="手甲"/>
+      <string id="LegArmor" text="胫甲"/>
+      <string id="HorseHarness" text="马具"/>
+      <string id="Horse" text="马"/>
+
+      <!--task-->
+      <string id="task_main" text="主线任务"/>
+      <string id="task_other" text="支线任务"/>
+      <string id="task_ok" text="已完成任务"/>
+
+
+      <string id="Story" text="你从海滩上醒来，艰难爬起身，环顾四周只有残破的船只废墟，你依稀记得自己乘船在海上时遭遇了海怪袭击自己昏迷时的梦还在脑海里，你试图回想更多的东西，但剧烈的头痛让你无法思考...饥饿如潮水般袭来，你找到一处高地，四处眺望后发现不远处有一个村庄，你决定去寻求帮助..."/>
+      <string id="Story_con" text="点击任意位置开始冒险..."/>
+      
+
+      <!--Encounter-->
+      <string id="Encounter_001" text="决战"/>
+      <string id="Encounter_002" text="你发起了一场战斗，准备好武器!"/>
+      <string id="Encounter_003" text="战斗倒计时:"/>
+      <string id="Encounter_004" text="你遇到了一群强盗!"/>
+      <string id="Encounter_005" text="准备好武器!"/>
+      <string id="Encounter_006" text="强盗挡住了你的去路!"/>
+      <string id="Encounter_007" text="你可以决定是破财消灾还是大打出手..."/>
+      <string id="Encounter_008" text="你被袭击了，准备好武器!"/>
+      <string id="Encounter_009" text="你决定援助你的盟友，做好战斗准备！"/>
+      <string id="Encounter_010" text="即将加入战场..."/>
+      <string id="Encounter_011" text="秒"/>
+      <string id="Encounter_012" text="赎金不足"/>
+      <string id="Encounter_013" text="你的第纳尔不足以支付赎金,全力一战赢得出路吧"/>
+      <string id="Encounter_pay" text="支付赎金:"/>
+
+      <!--Friend-->
+      <string id="Friend_0001" text="查无此人"/>
+      <string id="Friend_0002" text="添加好友"/>
+      <string id="Friend_0003" text="搜索结果"/>
+      <string id="Friend_0004" text="您不能添加自己"/>
+      <string id="Friend_0005" text="已在好友列表"/>
+      <string id="Friend_0006" text="已发送申请"/>
+      <string id="Friend_0007" text="查看资料"/>
+      <string id="Friend_0008" text="屏蔽此人信息"/>
+      <string id="Friend_0009" text="发送私信"/>
+      <string id="Friend_0010" text="邀请组队"/>
+      <string id="Friend_0011" text="删除好友"/>
+
+      <string id="Friend_0012" text="创建队伍"/>
+      <string id="Friend_0013" text="请输入队伍名字：6个中文字或者20个英文或者混合10个字"/>
+      <string id="Friend_0014" text="组队邀请"/>
+      <string id="Friend_0015" text="是否邀请玩家："/>
+      <string id="Friend_0016" text="加入队伍"/>
+      <string id="Friend_0017" text="只有队长才有权限邀请别人加入队伍"/>
+      <string id="Friend_0018" text="待处理"/>
+      <string id="Friend_0019" text="申请加为好友"/>
+      <string id="Friend_0020" text="已同意"/>
+      <string id="Friend_0021" text="已拒绝"/>
+      <string id="Friend_0022" text="在线好友"/>
+      <string id="Friend_0023" text="离线好友"/>
+      <string id="Friend_0024" text="好友列表"/>
+      <string id="Friend_0025" text="搜索"/>
+      <string id="Frined_0026" text="好友申请"/>
+      <string id="Friend_0027" text="暂无好友申请需要处理"/>
+      <string id="Friend_0028" text="已离线"/>
+      <string id="Friend_0029" text="同意"/>
+      <string id="Friend_0030" text="拒绝"/>
+      <string id="Firend_0031" text="输入后按Enter搜索"/>
+      <string id="Friend_0032" text="按Enter关闭搜索结果"/>
+      <string id="Friend_0033" text="您的列表查无此人"/>
+      <string id="Friend_0034" text="暂无在线好友"/>
+      <string id="Friend_0035" text="暂无离线好友"/>
+      <string id="Send_text" text="发送"/>
+      <string id="Friend_0036" text="搜名字"/>
+      <string id="Friend_0037" text="搜ID"/>
+      <string id="Friend_0038" text="您输入的ID不符合规范"/>
+
+
+       <!--  Build UI -->
+      <string id="Clan_build_buildtext" text="建造"/>
+      <string id="Clan_build_demolishtext" text="拆除"/>
+      <string id="Clan_build_rotatetext" text="旋转"/>
+      <string id="Clan_build_esctext1" text="关闭建造页面"/>
+      <string id="Clan_build_esctext2" text="关闭拆除页面"/>
+      <string id="Clan_build_demolishhint" text="拆除模式"/>
+      <string id="Clan_build_buildhint" text="可建造数量"/>
+
+     
+      <!-- Prestige Mall -->
+      <string id="Prestige_0001" text="威望商城"/> 
+      <string id="Prestige_0002" text="获取途径：威望通过击败特殊敌人概率掉落，或前往爱发电支持我们返还赠送。"/>
+      <string id="Prestige_0003" text="爱发电"/>
+      <string id="Prestige_0004" text="CDK兑换"/>
+      <string id="Prestige_0005" text="上一页"/>
+      <string id="Prestige_0006" text="下一页"/>
+      <string id="Prestige_0007" text="剩余时间:"/>
+      <string id="Prestige_0008" text="当前威望:"/>
+      <string id="Prestige_0009" text="用户等级:"/>
+      <string id="Prestige_0010" text="您的VIP等级为0，暂无特权。"/>
+      <string id="Prestige_0011" text="特权:"/>
+      <string id="Prestige_0012" text="角色经验加成:"/>
+      <string id="Prestige_0013" text="伙伴经验加成:"/>
+      <string id="Prestige_0014" text="士兵经验加成:"/>
+      <string id="Prestige_0015" text="页"/>
+      <string id="Prestige_0016" text="天"/>
+      <string id="Prestige_0017" text="小时"/>
+      <string id="Prestige_0018" text="分"/>
+      <string id="Prestige_0019" text="{DAY}天 {HOUR}小时 {Min}分"/>
+      <string id="Prestige_0020" text="是否消耗{PRESTIGE}威望值兑换"/>
+      <string id="Prestige_0021" text="库存:"/>
+      <string id="Prestige_0022" text="个人限量:"/>
+      <string id="Prestige_0023" text="全服限量:"/>
+      <string id="Prestige_0024" text="下架时间:"/>
+      <string id="Prestige_0025" text="限时秒杀:"/>
+      <string id="Prestige_0026" text="即将上架:"/>
+      <string id="Prestige_0027" text="未上架"/>
+      <string id="Prestige_0028" text="折"/>
+      
+
+      <!-- CharacterDeveloper -->
+      <string id="CharacterDeveloper_0001" text="属性"/>
+      <string id="CharacterDeveloper_0002" text="力量"/>
+      <string id="CharacterDeveloper_0003" text="敏捷"/>
+      <string id="CharacterDeveloper_0004" text="耐力"/>
+      <string id="CharacterDeveloper_0005" text="魅力"/>
+      <string id="CharacterDeveloper_0006" text="智慧"/>
+      <string id="CharacterDeveloper_0007" text="武器掌握"/>
+      <string id="CharacterDeveloper_0008" text="运动"/>
+      <string id="CharacterDeveloper_0009" text="领袖"/>
+      <string id="CharacterDeveloper_0010" text="未入门"/>
+      <string id="CharacterDeveloper_0011" text="入门"/>
+      <string id="CharacterDeveloper_0012" text="新手"/>
+      <string id="CharacterDeveloper_0013" text="熟练"/>
+      <string id="CharacterDeveloper_0014" text="掌握"/>
+      <string id="CharacterDeveloper_0015" text="老兵"/>
+      <string id="CharacterDeveloper_0016" text="精通"/>
+      <string id="CharacterDeveloper_0017" text="专家"/>
+      <string id="CharacterDeveloper_0018" text="大师"/>
+      <string id="CharacterDeveloper_0019" text="宗师"/>
+      <string id="CharacterDeveloper_0020" text="熟练度上限"/>
+      <string id="CharacterDeveloper_0021" text="基础"/>
+      <string id="CharacterDeveloper_0022" text="武器伤害："/>
+      <string id="CharacterDeveloper_0023" text="武器速度："/>
+      <string id="CharacterDeveloper_0024" text="弓箭伤害："/>
+      <string id="CharacterDeveloper_0025" text="弓箭精度："/>
+      <string id="CharacterDeveloper_0026" text="瞄准速度："/>
+      <string id="CharacterDeveloper_0027" text="弩精度："/>
+      <string id="CharacterDeveloper_0028" text="装填速度："/>
+      <string id="CharacterDeveloper_0029" text="投掷武器速度："/>
+      <string id="CharacterDeveloper_0030" text="投掷武器伤害："/>
+      <string id="CharacterDeveloper_0031" text="投掷精度："/>
+      <string id="CharacterDeveloper_0032" text="跑动速度："/>
+      <string id="CharacterDeveloper_0033" text="重量惩罚减免："/>
+      <string id="CharacterDeveloper_0034" text="击退抗性："/>
+      <string id="CharacterDeveloper_0035" text="击倒抗性："/>
+      <string id="CharacterDeveloper_0036" text="骑乘最大难度："/>
+      <string id="CharacterDeveloper_0037" text="马匹速度："/>
+      <string id="CharacterDeveloper_0038" text="马匹操纵："/>
+      <string id="CharacterDeveloper_0039" text="马匹耐力消耗："/>
+      <string id="CharacterDeveloper_0040" text="武器伤害惩罚："/>
+      <string id="CharacterDeveloper_0041" text="武器速度及装填惩罚："/>
+      <string id="CharacterDeveloper_0042" text="落马抗性："/>
+      <string id="CharacterDeveloper_0043" text="部队上限："/>
+      <string id="CharacterDeveloper_0044" text="影响血量、近战伤害、挥砍速度、投掷武器速度。"/>
+      <string id="CharacterDeveloper_0045" text="影响奔跑速度、戳刺速度、装填速度、准星稳定时长。"/>
+      <string id="CharacterDeveloper_0046" text="部分影响血量，影响背包负重、重量惩罚减免、打退抗性、击倒抗性。"/>
+      <string id="CharacterDeveloper_0047" text="影响商店物品价格、物品回收价格。"/>
+      <string id="CharacterDeveloper_0048" text="影响经验获取效率。"/>
+      <string id="CharacterDeveloper_0049" text="可用武器专精点:你会在2级获得第一个可用的武器专精点，之后每提升3级再额外获得一点"/>
+      <string id="CharacterDeveloper_0050" text="可用运动专精点:你会在3级获得第一个可用的运动专精点，之后每提升5级再额外获得一点"/>
+      <string id="CharacterDeveloper_0051" text="可用领袖专精点:你会在4级获得第一个可用的领袖专精点，之后每提升5级再额外获得一点"/>
+      <string id="CharacterDeveloper_0052" text="可用属性点:每升1级,获得一点可用属性点。"/>
+      <string id="CharacterDeveloper_0053" text="可用属性点:此角色每5级可获得1点自由属性点。"/>
+      <string id="CharacterDeveloper_0054" text="角色血量 "/>
+      <string id="CharacterDeveloper_0055" text="近战伤害 "/>
+      <string id="CharacterDeveloper_0056" text="投掷武器速度 "/>
+      <string id="CharacterDeveloper_0057" text="挥砍速度 "/>
+      <string id="CharacterDeveloper_0058" text="奔跑速度 "/>
+      <string id="CharacterDeveloper_0059" text="戳刺速度 "/>
+      <string id="CharacterDeveloper_0060" text="装填速度 "/>
+      <string id="CharacterDeveloper_0061" text="准星稳定时长 "/>
+      <string id="CharacterDeveloper_0062" text="背包负重 "/>
+      <string id="CharacterDeveloper_0063" text="重量惩罚减免 "/>
+      <string id="CharacterDeveloper_0064" text="打击抗性（阈值） "/>
+      <string id="CharacterDeveloper_0065" text="商店价格 "/>
+      <string id="CharacterDeveloper_0066" text="回收价格 "/>
+      <string id="CharacterDeveloper_0067" text="经验获取效率 "/>
+      <string id="CharacterDeveloper_0068" text="最大生命值 "/>
+      <string id="CharacterDeveloper_0069" text="生命值 "/>
+      <string id="CharacterDeveloper_0070" text="花费1点专精点，当前可用{num}点"/>
+      <string id="CharacterDeveloper_0071" text="无可用专精点"/>
+      <string id="CharacterDeveloper_0072" text="等级"/>
+
+
+      <!--RankUI-->
+      <string id="Rank_0001" text="无边框奖励"/>
+      <string id="Rank_0002" text="排行"/>
+      <string id="Rank_0003" text="名字"/>
+      <string id="Rank_0004" text="今日贡献"/>
+      <string id="Rank_0005" text="当日贡献排行"/>
+      <string id="Rank_0006" text="累计贡献排行"/>
+      <string id="Rank_0007" text="累计金钱排行"/>
+      <string id="Rank_0008" text="累计杀怪排行"/>
+      <string id="Rank_0009" text="累计任务排行"/>
+      <string id="Rank_0010" text="累计积分:"/>
+      <string id="Rank_0011" text="我的排行"/>
+      <string id="Rank_0012" text="暂无家族"/>
+ </strings>
+ 
+</base>

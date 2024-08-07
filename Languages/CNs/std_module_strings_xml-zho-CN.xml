@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文" />
+	</tags>
+	<strings>
+		<string id="06EZT6HxVvxk3" text="啤酒匠" />
+		<string id="wYej8AeYdGwLx" text="啤酒制造者" />
+		<string id="YcbavfPt0W3jr" text="从车间库存中取出物品" />
+		<string id="ev08nvH3KQP8P" text="管理车间" />
+		<string id="d8TQkUf6shisI" text="去啤酒厂" />
+		<string id="elyqcMdr6iAEp" text="普通啤酒" />
+		<string id="Ted1fuXNB0sps" text="啤酒厂管理" />
+		<string id="sYp2rcJbLmxjU" text="生产比例" />
+		<string id="QGOIY2sG9r43k" text="你们卖手工啤酒吗?" />
+		<string id="ySPUlbgCuHxk7" text="呸呸呸。酿酒厂那个贪婪的混蛋不想把他的东西卖给我。直接向客户销售可以获得更优惠的价格。" />
+		<string id="P9f9VwfJSNypO" text="我们镇上没有啤酒厂。你得去别的地方看看。" />
+		<string id="vaYcSAMZjDnYX" text="你好。你是来买手工啤酒的吗?不幸的是，我们缺货了。待会儿再来。" />
+		<string id="ZdHx6WHCSmSjR" text="你好。您想买些工匠啤酒吗?一个杯子是{PRICE}{GOLD_ICON}." />
+		<string id="iJg7vJ8VjI3gE" text="当然，我要一个。" />
+		<string id="niTH9sA3ar7r0" text="谢谢您再次光临!" />
+		<string id="yCAp6VyaqYXlb" text="不用了，谢谢。" />
+		<string id="0aheY0j8IUl9O" text="你的损失。" />
+		<string id="yCLS6x8c04f1C" text="治疗{HEAL_AMOUNT}HP" />
+		<string id="Udj8g9UVDxOBw" text="你好老板。我们目前缺货。" />
+		<string id="4e9PSdQtmJJE1" text="你好，老板，你想带点啤酒吗?" />
+		<string id="IYtWJk9dN1Up5" text="给你" />
+		<string id="ATxU9QDhKhNNl" text="现在不行" />
+		<string id="tOFcFalV7Rgk7" text="好的，老板，我先帮你保管" />
+		<string id="8aiPERXa1Ez94" text="收到1瓶手工啤酒" />
+		<string id="Ski_TwoHanded" text="双手" />
+		<string id="Ski_OneHanded" text="单手 " />
+		<string id="Ski_Throwing" text="投掷" />
+	</strings>
+</base>

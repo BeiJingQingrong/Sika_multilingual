@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="Erin0001" text="renford farmer" />
+    <string id="Erin0002" text="renford conscript" />
+    <string id="Erin0003" text="renford infantry" />
+    <string id="Erin0004" text="renford defend infantry" />
+    <string id="Erin0005" text="renford militia archer" />
+    <string id="Erin0006" text="renford guerrilla archer" />
+    <string id="Erin0007" text="renford longbow archer" />
+    <string id="Erin0008" text="renford heavy infantry" />
+    <string id="Erin0009" text="renford brave archer" />
+    <string id="Nordvisa0001" text="northland tribesmen" />
+    <string id="Nordvisa0002" text="nordvisa armed woodcutter" />
+    <string id="Nordvisa0003" text="nordvisa tribe warrior" />
+    <string id="Nordvisa0004" text="nordvisa tribe brave warrior" />
+    <string id="Nordvisa0005" text="nordvisa destroy warrior" />
+    <string id="Nordvisa0006" text="nordvisa howl raider" />
+    <string id="Nordvisa0007" text="nordvisa armed fishermen" />
+    <string id="Nordvisa0008" text="nordvisa skirmisher" />
+    <string id="Nordvisa0009" text="nordvisa axe thrower" />
+    <string id="Nordvisa0010" text="nordvisa elite axe thrower" />
+    <string id="Nordvisa0011" text="nordvisa gale thrower" />
+  </strings>
+</base>

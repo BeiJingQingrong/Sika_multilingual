@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="VqCS28U1" text="Mule" />
+    <string id="P1rL28RT" text="Sumpter Horse" />
+    <string id="pb2ELRZQ" text="Saddle Horse" />
+    <string id="N5aT5hoA" text="Midlands Palfrey" />
+    <string id="he5mGIMh" text="Charger" />
+    <string id="uPrWdLxV" text="Revyl Chaser" />
+    <string id="p2jR7Urm" text="Rugged Saddle" />
+    <string id="O37kzdXO" text="Light Harness" />
+    <string id="uRqm1nJ7" text="Light Saddle" />
+    <string id="3Pv0SlYj" text="Seax" />
+    <string id="elTXYb9f" text="Falx Knife" />
+    <string id="Ag6dujzl" text="Tapered Blade" />
+    <string id="IM2SamZ8" text="Falchion" />
+    <string id="w9RLq82l" text="Iron Arming Sword" />
+    <string id="QjdyYS0m" text="Iron Saber" />
+    <string id="3YhwjpQ0" text="Defend Sword" />
+    <string id="kxtSkGju" text="The Ambassador" />
+    <string id="8mpp8ZCL" text="Knightly Arming Sword" />
+    <string id="Zcaucj4W" text="Decorated Arming Sword" />
+    <string id="FQHaFsyQ" text="Backsword" />
+    <string id="arBdK7st" text="Simple Defend Sword" />
+    <string id="cRCkC36E" text="Short Sword" />
+    <string id="1CamO1P3" text="Iron Spatha" />
+    <string id="JPByibJQ" text="Iron Scimitar" />
+    <string id="06Qoh8AO" text="Gold Bound Short Warsword" />
+    <string id="MRIdGqhA" text="Pointy Warsword" />
+    <string id="ha3rVEzP" text="Ridged Tipped Arming Sword" />
+    <string id="J3erdO1b" text="Dawnbreaker" />
+    <string id="4wdgiTta" text="Sickle" />
+    <string id="GghHAbIT" text="Hatchet" />
+    <string id="bcjcw1o9" text="Wood Splitter Axe" />
+    <string id="KanKBHcS" text="Infantry Axe" />
+    <string id="tsaSBPKu" text="Tzikourion" />
+    <string id="dRWKmbaa" text="Small Spurred Axe" />
+    <string id="beVFwINO" text="Wooden Hammer" />
+    <string id="6WcZ5Tr0" text="Blacksmith Hammer" />
+    <string id="7jH0kuof" text="Spiked Mace" />
+    <string id="wxL5TdDv" text="Militia Mace" />
+    <string id="6QI8X6CY" text="Fullered Light Mace" />
+    <string id="WASZXuec" text="Militia Pernach" />
+    <string id="4cMV1pY3" text="Imperial Light Mace" />
+    <string id="BYPhysbH" text="Knight's Fall" />
+    <string id="mzvtFPPi" text="Bone Crusher" />
+    <string id="KRuZuMFI" text="Judgement" />
+    <string id="bt0uFefo" text="Wooden Twohander" />
+    <string id="DQaV0i5W" text="Iron Broadsword" />
+    <string id="a47UTuL6" text="Justicier" />
+    <string id="7phSQw5i" text="Hoe" />
+    <string id="gJPogg0J" text="Simple Sparth Axe" />
+    <string id="bNABNs8O" text="Square Bit Two Handed Axe" />
+    <string id="K2Xtca1a" text="Short Bill" />
+    <string id="oFEzCTpW" text="Iron Pitchfork" />
+    <string id="JBVAeXx3" text="Pitchfork" />
+    <string id="FbG3CW5p" text="Military Fork" />
+    <string id="jcOJqWGA" text="Fine Steel Spear" />
+    <string id="o5kKAbRu" text="Knight Lance" />
+    <string id="bue69aD4" text="Simple Short Spear" />
+    <string id="hyq1zBg5" text="Simple Commoner Spear" />
+    <string id="NFT4sLva" text="Tall Tipped Spear" />
+    <string id="yy7RvQKN" text="Bo staff" />
+    <string id="aGbTPme1" text="Scythe" />
+    <string id="GKzw7E8a" text="Simple Pike" />
+    <string id="kR1blV2k" text="Notched Military Fork" />
+    <string id="dkuzrKJF" text="Fine Pike" />
+    <string id="MiUxU83P" text="Simple Kite Shield" />
+    <string id="QcKpipVr" text="Adarga" />
+    <string id="C2IIn10Q" text="Simple Large Round Shield" />
+    <string id="Ai7qIb9I" text="Small Heater Shield" />
+    <string id="0666zYUB" text="Studded Adarga" />
+    <string id="A1zFbFta" text="Reinforced Flat Kite Shield" />
+    <string id="dWr3nuBq" text="Reinforced Iron Rimmed Kite Shield" />
+    <string id="nVAhoxcH" text="Knights Shield" />
+    <string id="89bCqb0Z" text="Wicker Square Tournament Shield" />
+    <string id="jAbn05Vg" text="Simple Horseman Kite Shield" />
+    <string id="buaIafV6" text="Bracketed Heater Shield" />
+    <string id="8ndLVeN0" text="Wooden Kite Shield" />
+    <string id="ap2yulQ2" text="Flat Heater Shield" />
+    <string id="WzAJJQjP" text="Desert Round Shield" />
+    <string id="vFqkSbGC" text="Reinforced Desert Round Shield" />
+    <string id="dbbwszHd" text="Decorated Round Shield" />
+    <string id="veI9RcR3" text="Reinforced Kite Shield" />
+    <string id="RddFH0BA" text="Iron Rimmed Large Round Shield" />
+    <string id="OhEQUMk0" text="Wide Heater Shield" />
+    <string id="WpdmIlU5" text="Iron Rimmed Kite Shield" />
+    <string id="SUSbUAEl" text="Practice Bow" />
+    <string id="cmuMaYGR" text="Practice Longbow" />
+    <string id="wltdyF2j" text="Hunting Bow" />
+    <string id="mTWvG1xz" text="Ranger Bow" />
+    <string id="h1jKICdp" text="Simple Short Bow" />
+    <string id="KTegaNPW" text="Longbow" />
+    <string id="9YbFEaZ1" text="Yew Bow" />
+    <string id="LAEaH3zB" text="Simple Light Crossbow" />
+    <string id="4Ea6pr5p" text="Sparring Crossbow" />
+    <string id="r07M9xbT" text="Heavy Crossbow" />
+    <string id="0e17RZrZ" text="Arbalest" />
+    <string id="I1yTY2rx" text="Fine Light Crossbow" />
+    <string id="gFtu0j4T" text="Arrows" />
+    <string id="s7jkSgba" text="Barbed Arrows" />
+    <string id="Biq7t1xv" text="Range Arrows" />
+    <string id="SbARa2gU" text="Bodkin Arrows" />
+    <string id="4jmcs2Xm" text="Tournament Bolts" />
+    <string id="I67Avuos" text="Light Quarrels" />
+    <string id="g7vxJhiz" text="Light Bolts" />
+    <string id="hN4wE2gG" text="Heavy Quarrels" />
+    <string id="wrbea2oa" text="Bolts" />
+    <string id="1CPdu9K0" text="Stone" />
+    <string id="F4xD8gjJ" text="Francesca" />
+    <string id="WWRKeqwD" text="Raider Throwing Axe" />
+    <string id="zvIax8Kt" text="Lowland Throwing Knife" />
+    <string id="te48yHa8" text="Leafblade Throwing Knife" />
+    <string id="QA3k2I4A" text="Broad Bladed Throwing Knives" />
+    <string id="0NLJnGfF" text="Simple Javelin" />
+    <string id="1oQWbXJw" text="Fish Harpoon" />
+    <string id="N0ErUFHS" text="Jagged Javelin" />
+    <string id="YPUDAJDH" text="Harpoon" />
+    <string id="ObGN145P" text="Woodland Javelin" />
+    <string id="ppiy9Cwl" text="Broad Blade Javelin" />
+    <string id="sDKfIQbO" text="Peasant Head Wrapping" />
+    <string id="g5BPd0Oc" text="Cloth Coif" />
+    <string id="S9htzkbe" text="Merchant Hat" />
+    <string id="N3SgmNxe" text="Head Scarf" />
+    <string id="SugbcP3D" text="Female Rural Headwrap" />
+    <string id="2U17pNiY" text="Rural Headdress" />
+    <string id="hRHPPQQP" text="Wrapped Headcloth" />
+    <string id="mlJKNbbn" text="Leather Coif" />
+    <string id="UC2XfY7V" text="Cloth Hood" />
+    <string id="cjH1WFwy" text="Fur Rimmed Cap" />
+    <string id="uLpnmNkZ" text="Leather Cap" />
+    <string id="TwuAVsCn" text="Fur Cap" />
+    <string id="Dc4ia4m9" text="Padded Cap" />
+    <string id="Q50hfNjW" text="Thinhide Coif" />
+    <string id="3UxfT9Bu" text="Wrapped Leather Cap" />
+    <string id="C8nk7NEf" text="Thick Fur Hood" />
+    <string id="8tHbqjmB" text="Peaked Fur Hood" />
+    <string id="WUArer5A" text="Open Padded Coif" />
+    <string id="qFL0VxZX" text="Laced Coif" />
+    <string id="zQv3w264" text="Padded Half Coif" />
+    <string id="77RIGK7B" text="Mail Coif" />
+    <string id="OpYdqPWs" text="Open Mail Coif" />
+    <string id="Qywm0F8B" text="Mail Coif with Helmet Padding" />
+    <string id="mRGIxvYh" text="Nasal Cervelliere over Mail Coif" />
+    <string id="VylHwqVq" text="Segmented Skullcap over Laced Coif" />
+    <string id="zAvb7WKe" text="Segmented Skullcap over Padded Coif" />
+    <string id="3iq3rOh8" text="Kettle Helmet over Arming Coif" />
+    <string id="tMLH04n4" text="Kettle Hat over Mail Coif" />
+    <string id="VcbEaV7T" text="Kettle Helmet over Padded Cloth" />
+    <string id="mRGIxvYh" text="Nasal Cervelliere over Mail Coif" />
+    <string id="JjLQ2VdT" text="Nasal Cervelliere over Padded Coif" />
+    <string id="FItBDuqh" text="Cotton Hood" />
+    <string id="ectdzWNx" text="Heavy Tartan Scarf" />
+    <string id="h1bcf5zn" text="Shawl" />
+    <string id="NZjbiEXg" text="Tartan Cloak" />
+    <string id="HJdIkdm2" text="Thick Scarf" />
+    <string id="EyQTfFS6" text="Woven Shoulder Pad" />
+    <string id="Jm3AiUo3" text="Simple Cape" />
+    <string id="GNdVXMue" text="Scarf" />
+    <string id="lVtoBMhp" text="Tartan Cape" />
+    <string id="UvOa4elc" text="Green Hood" />
+    <string id="KQ9h5eAe" text="Heavy Cloak" />
+    <string id="1EhlbySK" text="Short Cloak" />
+    <string id="9w40yGlZ" text="Leather Shoulder Guard" />
+    <string id="ICsecuVv" text="Cured Leather Shoulder Pieces" />
+    <string id="e6WOD7Ra" text="Fringed Cape" />
+    <string id="lbVB6KPl" text="Hood" />
+    <string id="hjYFbvcy" text="Woodland Cape" />
+    <string id="5uqExwWb" text="Woodland Fur Cloak" />
+    <string id="y1YTxkmn" text="Shoulder Harness" />
+    <string id="qGzZ78bM" text="Bolted Leather Strips" />
+    <string id="FOx5vZSJ" text="Armored Bearskin" />
+    <string id="QlpyR6uc" text="Lamellar Shoulder Guards" />
+    <string id="DbEzJcbD" text="Lamellar Pauldrons" />
+    <string id="vRBg9ICF" text="Tartan Shoulder Harness" />
+    <string id="beg6guIH" text="Wolf Pelt Cape" />
+    <string id="Bl72Ribb" text="Padded Leather Shoulders" />
+    <string id="s7WRzaf2" text="Bear Pelt" />
+    <string id="k9ouZ59X" text="Bronze Scale Pauldrons" />
+    <string id="KKWEkA4P" text="Rough Bearskin" />
+    <string id="567zyLq5" text="Cured Studded Leather Shoulders" />
+    <string id="Q19xluDy" text="Reinforced Studded Neckguard" />
+    <string id="jQKVnVNR" text="Bronze Pauldrons" />
+    <string id="U0zBG3F9" text="Scale Pauldrons" />
+    <string id="Oub0aVl3" text="Cured Leather Pauldrons" />
+    <string id="FQdTo5ay" text="Scale Shoulder Guards" />
+    <string id="mTsEaNKb" text="Fur Cloak" />
+    <string id="smKogclC" text="Sackcloth Tunic" />
+    <string id="OJIRIm4j" text="Simple Cloth Tunic" />
+    <string id="tuEQnm2r" text="Villager Short Dress" />
+    <string id="t695AnJU" text="Plain Dress" />
+    <string id="PP5SzUx0" text="Laced Dress" />
+    <string id="eRZK8Kbp" text="Rich Dress" />
+    <string id="pbxbCnVy" text="Silken Noble Dress" />
+    <string id="FAPHmzxQ" text="Thawb" />
+    <string id="l5JDrvbW" text="Tartan Tunic" />
+    <string id="SsCM14Xu" text="Sleeved Heavy Tunic" />
+    <string id="QaysED62" text="Tunic with Rolled Cloth" />
+    <string id="vbPBXiPC" text="Rich Tunic" />
+    <string id="XiwTesky" text="Silk Kaftan" />
+    <string id="qH5VV8In" text="Villager Leather Tunic" />
+    <string id="7b8Cwogx" text="Aketon" />
+    <string id="JKRQ8RDA" text="Padded Cloth with Strips" />
+    <string id="4pqIsPhp" text="Padded Short Coat" />
+    <string id="bz5lXkHS" text="Sleeveless Padded Short Coat" />
+    <string id="aJLikenm" text="Infantryman Gambeson" />
+    <string id="XNQPPIaA" text="Infantryman Gambeson over Leather Jacket" />
+    <string id="CLTk2CMs" text="Infantryman Gambeson with Straps" />
+    <string id="cEhDJAQp" text="Infantryman Gambeson with Skirts" />
+    <string id="lZ93DOrn" text="Sleeveless Padded Coat" />
+    <string id="1BXuUR3s" text="Infantryman Long Gambeson" />
+    <string id="GTaxqBcv" text="Auxiliary Armor" />
+    <string id="gbRVBOLH" text="Commoner Clothes" />
+    <string id="vCywYDmp" text="Light Padded Armor" />
+    <string id="bKBa7ahF" text="Long Simple Robe" />
+    <string id="2WQTvOLF" text="Cloth Apron" />
+    <string id="ZqTFQeai" text="Leather Tunic" />
+    <string id="2KQbV4To" text="Merchant Fur Coat" />
+    <string id="BavVxSoC" text="Cheap Colored Clothes" />
+    <string id="Z9RlnXrD" text="Fur Skirt" />
+    <string id="AobNdBBU" text="Cheap Paddings" />
+    <string id="puNpMCgX" text="Buckled Mail Armor" />
+    <string id="GzgUzrFY" text="Mail Shirt" />
+    <string id="Qd0tQLpA" text="Studded Leather Armor" />
+    <string id="wWqavjat" text="Light Long Padded Armor" />
+    <string id="mT1bvZxM" text="Townsman Luxury Coat" />
+    <string id="qhbOjHRI" text="Torn Padded Garments" />
+    <string id="yTWOMSmv" text="Hemp Tunic" />
+    <string id="dS4zm0UT" text="Studded Leather over Aketon" />
+    <string id="n7e0y95m" text="Cured Studded Leather Armor" />
+    <string id="erlrhK2a" text="Scale Warlord Armor" />
+    <string id="ZqTFQeai" text="Leather Tunic" />
+    <string id="tiTTWhpW" text="Padded Leather Shirt" />
+    <string id="QbfOXJas" text="Padded Footman Coat" />
+    <string id="xa7KRSCy" text="Stitched Leather Vest" />
+    <string id="6XxiMU52" text="Leather Tabard over Mail" />
+    <string id="LSaIs3DB" text="Leather Armor" />
+    <string id="aQN4Dlx2" text="Heavy Aketon" />
+    <string id="oEJnxsQ1" text="Armwraps" />
+    <string id="b2EDkbhD" text="Wrapped Armguards" />
+    <string id="lIJ1EVBh" text="Leather Gloves" />
+    <string id="iD0ePqi7" text="Buttoned Leather Bracers" />
+    <string id="DOYS7dmq" text="Strapped Leather Bracers" />
+    <string id="8uBew3nD" text="Studded Vambraces" />
+    <string id="fUmehyHq" text="Woven Leather Bracers" />
+    <string id="MamotK0a" text="Padded Vambraces" />
+    <string id="uEPRE33m" text="Rough Tied Bracers" />
+    <string id="bxa4JHlU" text="Studded Leather Vambraces" />
+    <string id="LoUxaFeE" text="Leather Vambraces" />
+    <string id="jIwjYOVj" text="Ragged Armwraps" />
+    <string id="a1BGHdaU" text="Guarded Armwraps" />
+    <string id="J3YHMkL3" text="Padded Mittens" />
+    <string id="2Ilvjlz9" text="Splint Vambraces" />
+    <string id="2XEbqNQz" text="Decorated Imperial Gauntlets" />
+    <string id="Kgnm0FkE" text="Leather Shoes" />
+    <string id="4YxbZlbi" text="Wrapped Shoes" />
+    <string id="VpxHysbZ" text="Sturdy Leather Boots" />
+    <string id="oH8iFEv7" text="Folded Town Boots" />
+    <string id="4Ygp7P0Y" text="Highborn Leather Boots" />
+    <string id="LOPavWRp" text="Strapped Shoes" />
+    <string id="oEvhhNNR" text="Leather Cavalier Boots" />
+    <string id="uUGAMReu" text="Fine Town Boots" />
+    <string id="tWfAPrPa" text="Mail Cavalier Boots" />
+    <string id="L7qYlJqn" text="Woodland Boot" />
+    <string id="FptcHNb9" text="Wrapped Boots" />
+    <string id="Fb7PrJuc" text="Splint Boots" />
+    <string id="xqE9aycc" text="Woodland Leg Wrappings" />
+    <string id="bFm9jOft" text="Belted Leather Boots" />
+    <string id="DhHBBpPf" text="Simple Leather Boots" />
+    <string id="XXGZLTN6" text="Decorated Plate Boots" />
+    <string id="Szuxa9Bs" text="Ragged Boots" />
+    <string id="WahziEXA" text="Wrapped Leather Boots" />
+    <string id="tMwsE9IR" text="Strapped Leather Boots" />
+    <string id="4KZekKff" text="Tied Boots" />
+    <string id="2cSOn9qb" text="Gambeson over Mail Armor" />
+    <string id="camFHYrN" text="Leather Armor with Iron Plates" />
+    <string id="NiBDR9ld" text="Decorated Bronze Helmet with Cheek Guards" />
+    <string id="UoHZGyZa" text="Helmet with Faceguard" />
+    <string id="RXDyumYz" text="Caped Leather Harness" />
+    <string id="wLAL9NRB" text="Brave Bracers" />
+    <string id="whvMZZba" text="Guarded Padded Vambraces" />
+    <string id="AMIdBVZb" text="Fine Steel Spatha" />
+    <string id="rhWOdhjr" text="Brave War Spear" />
+    <string id="bwXACVOb" text="Soldier Steel Leaf Spear" />
+    <string id="W8r7A7qH" text="Half Scaled Barding" />
+    <string id="27GO9o9K" text="Plate armor shoulder" />
+  </strings>
+</base>

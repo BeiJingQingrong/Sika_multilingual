@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="bandit610001" text="exile criminal" />
+    <string id="bandit610002" text="exile looter" />
+    <string id="bandit610003" text="exile robber" />
+    <string id="bandit610004" text="exile desperado" />
+    <string id="bandit610005" text="exile desperado leader" />
+    <string id="bandit610006" text="refugee" />
+    <string id="bandit610007" text="deserter" />
+    <string id="bandit610008" text="deserter" />
+    <string id="bandit610009" text="deserter leader" />
+    <string id="bandit610010" text="slaver enforcer" />
+    <string id="bandit610011" text="slaver enforcer" />
+    <string id="bandit610012" text="slaver leader" />
+    <string id="bandit610013" text="slaver" />
+    <string id="bandit610014" text="insurgent pawn" />
+    <string id="bandit610015" text="insurgent backbone" />
+    <string id="bandit610016" text="insurgent elite" />
+    <string id="bandit610017" text="insurgent chieftain" />
+    <string id="bandit610018" text="looter" />
+    <string id="bandit610019" text="greenwood thief" />
+    <string id="bandit610020" text="greenwood bandit" />
+    <string id="bandit610021" text="greenwood robber" />
+    <string id="bandit610022" text="greenwood bandit leader" />
+    <string id="bandit610023" text="mercenary rascal" />
+    <string id="bandit610024" text="mercenary mob" />
+    <string id="bandit610025" text="mercenary villain" />
+    <string id="bandit610026" text="mercenary villain leader" />
+    <string id="bandit610027" text="northland exile" />
+    <string id="bandit610028" text="northland raider" />
+    <string id="bandit610029" text="northland raider warriors" />
+    <string id="bandit610030" text="northland raider leader" />
+    <string id="bandit610031" text="criminal knight bruiser" />
+    <string id="bandit610032" text="criminal knight retinue" />
+    <string id="bandit610033" text="criminal knight henchman" />
+    <string id="bandit610034" text="criminal knight" />
+  </strings>
+</base>

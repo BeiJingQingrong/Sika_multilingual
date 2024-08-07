@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="formula001" text="formula of highland ranger bow" />
+    <string id="formula002" text="Formula Of Bone Crusher Mace" />
+    <string id="formula003" text="Formula Of Iron Broadsword" />
+    <string id="formula004" text="Formula Of Judgement" />
+    <string id="formula005" text="Formula Of Leather Tabard over Mail" />
+    <string id="formula006" text="Formula Of Justicier" />
+    <string id="formula007" text="Formula Of Longbow" />
+    <string id="formula008" text="Formula Of Reinforced Kite Shield" />
+    <string id="formula009" text="Formula Of Yew Bow" />
+    <string id="formula010" text="Formula Of Simple Short Bow" />
+    <string id="formula011" text="Formula Of Wide Heater Shield" />
+    <string id="formula012" text="Formula Of Iron Rimmed Large Round Shield" />
+    <string id="formula013" text="Formula Of Arbalest" />
+    <string id="formula014" text="Formula Of Fine Light Crossbow" />
+    <string id="formula015" text="Formula Of Bodkin Arrows" />
+    <string id="formula016" text="Formula Of Decorated Arming Sword" />
+    <string id="formula017" text="Formula Of Knightly Arming Sword" />
+    <string id="formula018" text="Formula Of Scale Shoulder Guards" />
+    <string id="formula019" text="Formula Of Scale Warlord Armor" />
+    <string id="formula020" text="Formula Of Short Bill" />
+    <string id="formula021" text="Formula Of Decorated Imperial Gauntlets" />
+    <string id="formula022" text="Formula Of Decorated Plate Boots" />
+    <string id="formula023" text="Formula Of Leather Armor" />
+    <string id="formula024" text="Formula Of Heavy Aketon" />
+    <string id="formula025" text="Formula Of Nasal Cervelliere over Padded Coif" />
+    <string id="formula026" text="Formula Of Buckled Mail Armor" />
+    <string id="formula027" text="Formula Of Mail Shirt" />
+    <string id="formula028" text="Formula Of Segmented Skullcap over Padded Coif" />
+    <string id="formula029" text="Formula Of Kettle Helmet over Arming Coif" />
+    <string id="formula030" text="Formula Of Kettle Hat over Mail Coif" />
+    <string id="formula031" text="Formula Of Tapered Blade" />
+    <string id="formula032" text="Formula Of Falchion" />
+    <string id="formula033" text="Formula Of Infantry Axe" />
+    <string id="formula034" text="Formula Of Militia Mace" />
+    <string id="formula035" text="Formula Of Simple Sparth Axe" />
+    <string id="formula036" text="Formula Of Simple Commoner Spear" />
+    <string id="formula037" text="Formula Of Simple Kite Shield" />
+    <string id="formula038" text="Formula Of Practice Bow" />
+    <string id="formula039" text="Formula Of Arrows" />
+    <string id="formula040" text="Formula Of Gambeson over Mail Armor" />
+    <string id="formula041" text="Formula Of Leather Armor with Iron Plates" />
+    <string id="formula042" text="Formula Of Decorated Bronze Helmet with Cheek Guards" />
+    <string id="formula043" text="Formula Of Helmet with Faceguard" />
+    <string id="formula044" text="Formula Of Caped Leather Harness" />
+    <string id="formula045" text="Formula Of Tartan Shoulder Harness" />
+    <string id="formula046" text="Formula Of Fian Bracers" />
+    <string id="formula047" text="Formula Of Guarded Padded Vambraces" />
+    <string id="formula048" text="Formula Of Fine Steel Spatha" />
+    <string id="formula049" text="Formula Of Narrow Sword" />
+    <string id="formula050" text="Formula Of Highland War Spear" />
+    <string id="formula051" text="Formula Of Fine Steel Leaf Spear" />
+    <string id="formula052" text="Formula Of Bracketed Heater Shield" />
+    <string id="formula053" text="Formula Of Wicker Square Tournament Shield" />
+    <string id="formula054" text="Formula Of Half Scaled Barding" />
+    <string id="formula055" text="Formula Of Iron Plate Pauldrons" />
+    <string id="formula056" text="Formula Of Warlord Helmet over Full Mail" />
+    <string id="formula057" text="Formula Of Closed Warlord Helmet" />
+    <string id="formula058" text="Formula Of Heavy Warlord Pauldrons" />
+    <string id="formula059" text="Formula Of Long Sleeved Bronze Scale Shoulder Guards" />
+    <string id="formula060" text="Formula Of Khan's Coat of Plates" />
+    <string id="formula061" text="Formula Of Brigandine over Mail" />
+    <string id="formula062" text="Formula Of Khan's Plated Bracers" />
+    <string id="formula063" text="Formula Of Lamellar Plate Gauntlets" />
+    <string id="formula064" text="Formula Of Lamellar Plate Boots" />
+    <string id="formula065" text="Formula Of Huscarl Plated Boots" />
+    <string id="formula066" text="Formula Of Goggled Cataphract Helmet" />
+    <string id="formula067" text="Formula Of Reinforced Ornate Pauldrons" />
+    <string id="formula068" text="Formula Of Cataphract Lamellar Armor" />
+    <string id="formula069" text="Formula Of Sentinel" />
+    <string id="formula070" text="Formula Of Executioner Axe" />
+    <string id="formula071" text="Formula Of Heavy Executioner Axe" />
+    <string id="formula072" text="Formula Of Light Lance" />
+    <string id="formula073" text="Formula Of Triangular Headed Spear" />
+    <string id="formula074" text="Formula Of Narrow Long Headed Spear" />
+    <string id="formula075" text="Formula Of Druzhinnik Lance" />
+    <string id="formula076" text="Formula Of Thin Fine Steel Hewing Spear" />
+    <string id="formula077" text="Formula Of Heavy Knight Lance" />
+    <string id="formula078" text="Formula Of Noble Cavalry Lance" />
+    <string id="formula079" text="Formula Of Pavise Shield" />
+    <string id="formula080" text="Formula Of Reinforced Wicker Square Shield" />
+    <string id="formula081" text="Formula Of Heavy Round Shield" />
+    <string id="formula082" text="Formula Of Knights Kite Shield" />
+    <string id="formula083" text="Formula Of Heavy Recurve Bow" />
+    <string id="formula084" text="Formula Of Steppe Recurve Bow" />
+    <string id="formula085" text="Formula Of Steppe War Bow" />
+    <string id="formula086" text="Formula Of Noble Bow" />
+    <string id="formula087" text="Formula Of Noble Long Bow" />
+    <string id="formula088" text="Formula Of Woodland Longbow" />
+    <string id="formula089" text="Formula Of Nomad Bow" />
+    <string id="formula090" text="Formula Of Tribesman Bow" />
+    <string id="formula091" text="Formula Of Light Bodkin Arrows" />
+    <string id="formula092" text="Formula Of Stacked Bodkin Arrows" />
+    <string id="formula093" text="Formula Of Piercing Arrows" />
+    <string id="formula094" text="Formula Of Light Crossbow" />
+    <string id="formula095" text="Formula Of Hickory Crossbow" />
+    <string id="formula096" text="Formula Of Bound Crossbow" />
+    <string id="formula097" text="Formula Of Heavy Bolts" />
+    <string id="formula098" text="Formula Of Goggled Helmet over Leather" />
+    <string id="formula099" text="Formula Of Visored Helmet over Laced Coif" />
+    <string id="formula100" text="Formula Of Warlord Helmet with Cheek Guards" />
+    <string id="formula101" text="Formula Of Crowned Helmet" />
+    <string id="formula102" text="Formula Of Sea Raider Goggled Helmet" />
+    <string id="formula103" text="Formula Of Noble Steel Cap" />
+    <string id="formula104" text="Formula Of Plumed Noble Lancer Helmet with Neckguard" />
+    <string id="formula105" text="Formula Of Crowned Plate Helmet" />
+    <string id="formula106" text="Formula Of Visored Helmet over Mail Coif" />
+    <string id="formula107" text="Formula Of Ridged Warlord Helmet" />
+    <string id="formula108" text="Formula Of Lamellar Shoulder Pieces" />
+    <string id="formula109" text="Formula Of Reinforced Scale Pauldrons" />
+    <string id="formula110" text="Formula Of Ornate Pauldrons with Cape" />
+    <string id="formula111" text="Formula Of Decorated Leather Harness over Scale" />
+    <string id="formula112" text="Formula Of Reinforced Ornate Pauldrons over Scale" />
+    <string id="formula113" text="Formula Of Mastercrafted Southern Scale Mail" />
+    <string id="formula114" text="Formula Of Lancer Lamellar Armor" />
+    <string id="formula115" text="Formula Of Heavy Lamellar Vest" />
+    <string id="formula116" text="Formula Of Luxury Scale Armor" />
+    <string id="formula117" text="Formula Of Luxury Brigandine" />
+    <string id="formula118" text="Formula Of Heavy Lamellar over Hauberk" />
+    <string id="formula119" text="Formula Of Brigandine over Hauberk" />
+    <string id="formula120" text="Formula Of Highborn Mail Armor" />
+    <string id="formula121" text="Formula Of Lamellar with Scale Skirt" />
+    <string id="formula122" text="Formula Of Heavy Scale Armor over Mail Hauberk" />
+    <string id="formula123" text="Formula Of Heavy Lamellar over Mail" />
+    <string id="formula124" text="Formula Of Mastercrafted Southern Scale over Chain Hauberk" />
+    <string id="formula125" text="Formula Of Bronze Bracers" />
+    <string id="formula126" text="Formula Of Scale Warlord Bracers" />
+    <string id="formula127" text="Formula Of Scaled Boots" />
+    <string id="formula128" text="Formula Of Mail Chausses" />
+    <string id="formula129" text="Formula Of Strapped Mail Chausses" />
+    <string id="formula130" text="Formula Of Reinforced Suede Boots" />
+    <string id="formula131" text="Formula Of Half Mail Barding" />
+    <string id="formula132" text="Formula Of Reinforced Mail Barding" />
+    <string id="formula133" text="Formula Of Reinforced Half Plate Barding" />
+    <string id="formula134" text="Formula Of Cataphract Half Scale Barding" />
+    <string id="formula135" text="Formula Of Half Mail Barding" />
+    <string id="formula136" text="Formula Of Reinforced Half Plate Barding" />
+    <string id="formula137" text="Formula Of Refined Pickaxe" />
+    <string id="formula138" text="Formula Of Refined Logging Axe" />
+    <string id="formula139" text="Formula Of Superior Pickaxe" />
+    <string id="formula140" text="Formula Of Superior Logging Axe" />
+    <string id="formula141" text="Formula Of Reinforced Leather Vambraces" />
+    <string id="formula142" text="Formula Of Plated Strip Boots" />
+    <string id="formula143" text="Formula Of Closed-face Knight's Helmet" />
+    <string id="formula144" text="Formula Of Nord Guard Chainmail" />
+    <string id="formula145" text="Formula Of Reinforced Oak Kite Shield" />
+    <string id="formula146" text="Formula Of Imperial Throwing Spear" />
+    <string id="formula147" text="Formula Of Rough Fur-lined Chainmail" />
+    <string id="formula148" text="Formula Of kettle Hat-lined Chainmail" />
+    <string id="formula149" text="Formula Of Simple Raider Battle Axe" />
+    <string id="formula150" text="Formula Of Heavy Ring Mail" />
+    <string id="formula151" text="Formula Of Veteran Warrior's Axe" />
+    <string id="formula152" text="Formula Of Fur Cloak With Rondel" />
+    <string id="formula153" text="Formula Of Large Round Shield" />
+    <string id="formula154" text="Formula Of Tribal Throwing Axe" />
+    <string id="formula155" text="Formula Of Harpoon Spear" />
+    <string id="formula156" text="Formula Of Avalanche" />
+    <string id="formula157" text="Formula Of One-handed Beard Axe" />
+    <string id="formula158" text="Formula Of Reinforced Mercenary Armor" />
+    <string id="formula159" text="Formula Of Longsword" />
+    <string id="formula160" text="Formula Of Padded Liner For A Visored Helmet" />
+    <string id="formula161" text="Formula Of Rough Cloth-covered Iron Armor" />
+    <string id="formula162" text="Formula Of Basic Knife" />
+    <string id="formula163" text="Formula Of Forged Iron Dagger" />
+    <string id="formula164" text="Formula Of Single-edged Sword" />
+    <string id="formula165" text="Formula Of Star-headed Single-edged Sword" />
+    <string id="formula166" text="Formula Of Cleaver" />
+    <string id="formula167" text="Formula Of Steel-tipped Hooked Spear" />
+    <string id="formula168" text="Formula Of Serrated High-quality Steel Spear" />
+    <string id="formula169" text="Formula Of Spiked Battle Sword" />
+    <string id="formula170" text="Formula Of Iron-armored Sword" />
+    <string id="formula171" text="Formula Of Heavy Crossbow" />
+    <string id="formula172" text="Formula Of Reinforced Plated Gauntlets" />
+    <string id="formula173" text="Formula Of Fur Great Cloak With A Rondel" />
+    <string id="formula174" text="Formula Of Nord Visor With Horns" />
+    <string id="formula175" text="Formula Of Nord Visor Warrior Armor" />
+    <string id="formula176" text="Formula Of Nord Visor Warrior Bracers" />
+    <string id="formula177" text="Formula Of Nord Visor Warrior Pauldrons" />
+    <string id="formula178" text="Formula Of Nord Visor Warrior Strapped Boots" />
+    <string id="formula179" text="Formula Of Nord Visor Berserker Helmet" />
+    <string id="formula180" text="Formula Of Nord Visor Berserker Armor" />
+    <string id="formula181" text="Formula Of Nord Visor Berserker Bracers" />
+    <string id="formula182" text="Formula Of Nord Visor Berserker Gorget" />
+    <string id="formula183" text="Formula Of Nord Visor Berserker Greaves" />
+    <string id="formula184" text="Formula Of Billhook" />
+  </strings>
+</base>

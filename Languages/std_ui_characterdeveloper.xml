@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+     <!-- CharacterDeveloper -->
+      <string id="CharacterDeveloper_0001" text="Attributes"/>
+      <string id="CharacterDeveloper_0002" text="Strength"/>
+      <string id="CharacterDeveloper_0003" text="Dexterity"/>
+      <string id="CharacterDeveloper_0004" text="Constitution"/>
+      <string id="CharacterDeveloper_0005" text="Charisma"/>
+      <string id="CharacterDeveloper_0006" text="Intelligence"/>
+      <string id="CharacterDeveloper_0007" text="Weapon Mastery"/>
+      <string id="CharacterDeveloper_0008" text="Movement"/>
+      <string id="CharacterDeveloper_0009" text="LeaderShip"/>
+      <string id="CharacterDeveloper_0010" text="Novice"/>
+      <string id="CharacterDeveloper_0011" text="Beginner"/>
+      <string id="CharacterDeveloper_0012" text="Rookie"/>
+      <string id="CharacterDeveloper_0013" text="Proficient"/>
+      <string id="CharacterDeveloper_0014" text="Skilled"/>
+      <string id="CharacterDeveloper_0015" text="Veteran"/>
+      <string id="CharacterDeveloper_0016" text="Expert"/>
+      <string id="CharacterDeveloper_0017" text="Specialist"/>
+      <string id="CharacterDeveloper_0018" text="Master"/>
+      <string id="CharacterDeveloper_0019" text="Grandmaster"/>
+      <string id="CharacterDeveloper_0020" text="Upper limit of proficiency"/>
+      <string id="CharacterDeveloper_0021" text="Basic"/>
+      <string id="CharacterDeveloper_0022" text="Weapon damage:"/>
+      <string id="CharacterDeveloper_0023" text="Weapon speed:"/>
+      <string id="CharacterDeveloper_0024" text="Bow damage:"/>
+      <string id="CharacterDeveloper_0025" text="Bow precision:"/>
+      <string id="CharacterDeveloper_0026" text="Aim speed:"/>
+      <string id="CharacterDeveloper_0027" text="Crossbow precision:"/>
+      <string id="CharacterDeveloper_0028" text="Reload speed:"/>
+      <string id="CharacterDeveloper_0029" text="Thrown weapon speed:"/>
+      <string id="CharacterDeveloper_0030" text="Thrown weapon damage:"/>
+      <string id="CharacterDeveloper_0031" text="Thrown precision:"/>
+      <string id="CharacterDeveloper_0032" text="Movement speed:"/>
+      <string id="CharacterDeveloper_0033" text="Weight panelty reduction:"/>
+      <string id="CharacterDeveloper_0034" text="Knockback resistance:"/>
+      <string id="CharacterDeveloper_0035" text="Knockdown resistance:"/>
+      <string id="CharacterDeveloper_0036" text="Riding diffcult:"/>
+      <string id="CharacterDeveloper_0037" text="Horse speed:"/>
+      <string id="CharacterDeveloper_0038" text="Horse handing:"/>
+      <string id="CharacterDeveloper_0039" text="Horse endurance:"/>
+      <string id="CharacterDeveloper_0040" text="Weapon damage penalty:"/>
+      <string id="CharacterDeveloper_0041" text="Weapon speed & reload penalty:"/>
+      <string id="CharacterDeveloper_0042" text="Dismount resistance:"/>
+      <string id="CharacterDeveloper_0043" text="Troop limit:"/>
+      <string id="CharacterDeveloper_0044" text="Impacts: Health Points, Melee Damage, Swing Speed, Throwing Weapon Speed."/>
+      <string id="CharacterDeveloper_0045" text="Impacts: Running Speed, Stabbing Speed, Reload Speed, Aim Stability Duration."/>
+      <string id="CharacterDeveloper_0046" text="Impacts: Partial Health, Backpack Capacity, Weight Penalty Reduction, Knockback Resistance, Knockdown Resistance."/>
+      <string id="CharacterDeveloper_0047" text="Impacts: Store Item Prices, Item Recycling Prices."/>
+      <string id="CharacterDeveloper_0048" text="Impacts: Experience Gain Efficiency."/>
+      <string id="CharacterDeveloper_0049" text="Available Weapon Proficiency Points: You will receive your first available weapon proficiency point at Level 2, and an additional point every 3 levels thereafter."/>
+      <string id="CharacterDeveloper_0050" text="Available Movement Skill Points: You will receive your first available movement skill point at Level 3, and an additional point every 5 levels thereafter."/>
+      <string id="CharacterDeveloper_0051" text="Available Leadership Skill Points: You will receive your first available leadership skill point at Level 4, and an additional point every 5 levels thereafter."/>
+      <string id="CharacterDeveloper_0052" text="Available Attribute Points: Gain one available attribute point with each level up."/>
+      <string id="CharacterDeveloper_0053" text="Available Attribute Points: This character gains 1 free attribute point every 5 levels."/>
+      <string id="CharacterDeveloper_0054" text="Health Points "/>
+      <string id="CharacterDeveloper_0055" text="Melee Damage "/>
+      <string id="CharacterDeveloper_0056" text="Throwing Weapon Speed "/>
+      <string id="CharacterDeveloper_0057" text="Swing Speed "/>
+      <string id="CharacterDeveloper_0058" text="Running Speed "/>
+      <string id="CharacterDeveloper_0059" text="Stabbing Speed "/>
+      <string id="CharacterDeveloper_0060" text="Reload Speed "/>
+      <string id="CharacterDeveloper_0061" text="Aim Stability Duration "/>
+      <string id="CharacterDeveloper_0062" text="Backpack Capacity "/>
+      <string id="CharacterDeveloper_0063" text="Weight Penalty Reduction "/>
+      <string id="CharacterDeveloper_0064" text="Knockback Resistance (Threshold) "/>
+      <string id="CharacterDeveloper_0065" text="Store Prices "/>
+      <string id="CharacterDeveloper_0066" text="Recycling Prices "/>
+      <string id="CharacterDeveloper_0067" text="Experience Gain Efficiency "/>
+      <string id="CharacterDeveloper_0068" text="Maximum Health Points "/>
+      <string id="CharacterDeveloper_0069" text="Health Points "/>
+      <string id="CharacterDeveloper_0070" text="Costs 1 proficiency point, currently available {num} point"/>
+      <string id="CharacterDeveloper_0071" text="No available proficiency points"/>
+  </strings>
+</base>

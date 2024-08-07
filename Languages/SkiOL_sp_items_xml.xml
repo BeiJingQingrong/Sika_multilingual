@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+      <string id="treasure01" text="Treasure Map Ⅰ"/>
+      <string id="treasure02" text="Treasure Map Ⅱ"/>
+      <string id="treasure03" text="Treasure Map Ⅲ"/>
+      <string id="treasure04" text="Treasure Map Ⅳ"/>
+      <string id="treasure05" text="Treasure Map Ⅴ"/>
+      <string id="treasurepiece001" text="[Treasure Map Ⅰ]Piece A"/>
+      <string id="treasurepiece002" text="[Treasure Map Ⅰ]Piece B"/>
+      <string id="treasurepiece003" text="[Treasure Map Ⅰ]Piece C"/>
+      <string id="treasurepiece004" text="[Treasure Map Ⅱ]Piece A"/>
+      <string id="treasurepiece005" text="[Treasure Map Ⅱ]Piece B"/>
+      <string id="treasurepiece006" text="[Treasure Map Ⅱ]Piece C"/>
+      <string id="treasurepiece007" text="[Treasure Map Ⅱ]Piece D"/>
+      <string id="treasurepiece008" text="[Treasure Map Ⅲ]Piece A"/>
+      <string id="treasurepiece009" text="[Treasure Map Ⅲ]Piece B"/>
+      <string id="treasurepiece010" text="[Treasure Map Ⅲ]Piece C"/>
+      <string id="treasurepiece011" text="[Treasure Map Ⅲ]Piece D"/>
+      <string id="treasurepiece012" text="[Treasure Map Ⅲ]Piece E"/>
+      <string id="treasurepiece013" text="[Treasure Map Ⅳ]Piece A"/>
+      <string id="treasurepiece014" text="[Treasure Map Ⅳ]Piece B"/>
+      <string id="treasurepiece015" text="[Treasure Map Ⅳ]Piece C"/>
+      <string id="treasurepiece016" text="[Treasure Map Ⅳ]Piece D"/>
+      <string id="treasurepiece017" text="[Treasure Map Ⅳ]Piece E"/>
+      <string id="treasurepiece018" text="[Treasure Map Ⅳ]Piece F"/>
+      <string id="treasurepiece019" text="[Treasure Map Ⅴ]Piece A"/>
+      <string id="treasurepiece020" text="[Treasure Map Ⅴ]Piece B"/>
+      <string id="treasurepiece021" text="[Treasure Map Ⅴ]Piece C"/>
+      <string id="treasurepiece022" text="[Treasure Map Ⅴ]Piece D"/>
+      <string id="treasurepiece023" text="[Treasure Map Ⅴ]Piece E"/>
+      <string id="treasurepiece024" text="[Treasure Map Ⅴ]Piece F"/>
+      <string id="treasurepiece025" text="[Treasure Map Ⅴ]Piece G"/>
+      <string id="cdk1001" text="Tset Version Limited code"/>
+      <string id="dailychest001" text="Ordinary Active Treasure Chest"/>
+      <string id="dailychest002" text="Premium Active Treasure Chest"/>
+      <string id="dailychest003" text="Precious Active Treasure Chest"/>
+      <string id="wanted001" text="Bounty Exchange warrant Ⅰ"/>
+      <string id="wanted002" text="Bounty Exchange warrant Ⅱ"/>
+      <string id="wanted003" text="Bounty Exchange warrant Ⅲ"/>
+      <string id="wanted004" text="Bounty Exchange warrant Ⅳ"/>
+      <string id="BasicLegalIdentity" text="[Forged]Legal Identity Certificate"/>
+      <string id="SpecialLegalIdentity" text="[Forged]Special Identity Certificate"/>
+      <string id="DominionFlag" text="A Symbol Of Ancient Honor"/>
+      <string id="DominionFlag.Piece01" text="Ancient Flags First Piece"/>
+      <string id="DominionFlag.Piece02" text="Ancient Flags Second Piece"/>
+      <string id="DominionFlag.Piece03" text="Ancient Flags Third Piece"/>
+      <string id="SteamerTicket01" text="Contraband bill[Lurik to Xavier]"/>
+      <string id="SteamerTicket02" text="Embarkation certificate[Pasonde to Avery]"/>
+      <string id="SteamerTicket03" text="Embarkation certificate[Pasonde to Valle]"/>
+      <string id="SteamerTicket04" text="Contraband bill[Xavier to Lurik]"/>
+      <string id="SteamerTicket05" text="Embarkation certificate[Avery to Pasonde]"/>
+      <string id="SteamerTicket06" text="Embarkation certificate[Valle to Pasonde]"/>
+      <string id="certificate01" text="Prestige Exchange Certificate"/>
+      <string id="certificate02" text="Medal Exchange Certificate"/>
+  </strings>
+</base>

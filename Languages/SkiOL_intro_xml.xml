@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="SkiOL_intro_1" text="Mining tool that can be used to gather ore resources. " />
+    <string id="SkiOL_intro_2" text="Logging tool that can be used to gather wood resources." />
+    <string id="SkiOL_intro_3" text="Mining tool that can be used to gather ore resources. " />
+    <string id="SkiOL_intro_4" text="Logging tool that can be used to gather wood resources." />
+    <string id="SkiOL_intro_5" text="Mining tool that can be used to gather ore resources. " />
+    <string id="SkiOL_intro_6" text="Logging tool that can be used to gather wood resources." />
+    <string id="SkiOL_intro_7" text="Blueprint for crafting a refined pickaxe, usable in the workshop." />
+    <string id="SkiOL_intro_8" text="Blueprint for crafting a refined logging axe, usable in the workshop." />
+    <string id="SkiOL_intro_9" text="Blueprint for crafting a superior pickaxe, usable in the workshop." />
+    <string id="SkiOL_intro_10" text="Blueprint for crafting a superior logging axe, usable in the workshop." />
+    <string id="SkiOL_intro_11" text="Valuables have good collectible value, and some merchants will offer high prices to buy them." />
+    <string id="SkiOL_intro_12" text="Blueprint for crafting a Tapered Blade, usable in the workshop." />
+    <string id="SkiOL_intro_13" text="Blueprint for crafting a Falchion, usable in the workshop." />
+    <string id="SkiOL_intro_14" text="Blueprint for crafting a Infantry Axe, usable in the workshop." />
+    <string id="SkiOL_intro_15" text="Blueprint for crafting a Militia Mace, usable in the workshop." />
+    <string id="SkiOL_intro_16" text="Blueprint for crafting a Simple Sparth Axe, usable in the workshop." />
+    <string id="SkiOL_intro_17" text="Blueprint for crafting a Simple Commoner Spear, usable in the workshop." />
+    <string id="SkiOL_intro_18" text="Blueprint for crafting a Simple Kite Shield, usable in the workshop." />
+    <string id="SkiOL_intro_19" text="Blueprint for crafting a crude short bow, usable in the workshop." />
+    <string id="SkiOL_intro_20" text="Blueprint for crafting basic arrows, usable in the workshop." />
+    <string id="SkiOL_intro_21" text="Blueprint for crafting a guerrilla bow, usable in the workshop." />
+    <string id="SkiOL_intro_22" text="Blueprint for crafting a reinforced kite shield, usable in the workshop." />
+    <string id="SkiOL_intro_23" text="Blueprint for crafting an iron-rimmed round shield, usable in the workshop." />
+    <string id="SkiOL_intro_24" text="Blueprint for crafting padded armguards, usable in the workshop." />
+    <string id="SkiOL_intro_25" text="Blueprint for crafting a protective sword, usable in the workshop." />
+    <string id="SkiOL_intro_26" text="Blueprint for crafting a soldier's steel leaf spear, usable in the workshop." />
+    <string id="SkiOL_intro_27" text="Blueprint for crafting a willow square shield, usable in the workshop." />
+    <string id="SkiOL_intro_28" text="Blueprint for crafting a bonebreaker, usable in the workshop." />
+    <string id="SkiOL_intro_29" text="Blueprint for crafting an iron broadsword, usable in the workshop." />
+    <string id="SkiOL_intro_30" text="Blueprint for crafting a blade of judgment, usable in the workshop." />
+    <string id="SkiOL_intro_31" text="Blueprint for crafting a longbow, usable in the workshop." />
+    <string id="SkiOL_intro_32" text="Blueprint for crafting a simple short bow, usable in the workshop." />
+    <string id="SkiOL_intro_33" text="Blueprint for crafting a powerful crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_34" text="Blueprint for crafting decorative Imperial armguards, usable in the workshop." />
+    <string id="SkiOL_intro_35" text="Blueprint for crafting decorative plated boots, usable in the workshop." />
+    <string id="SkiOL_intro_36" text="Blueprint for crafting leather armor, usable in the workshop." />
+    <string id="SkiOL_intro_37" text="Blueprint for crafting heavy armored clothing, usable in the workshop." />
+    <string id="SkiOL_intro_38" text="Blueprint for crafting padded coif with nasal guard, usable in the workshop." />
+    <string id="SkiOL_intro_39" text="Blueprint for crafting riveted chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_40" text="Blueprint for crafting a chainmail shirt, usable in the workshop." />
+    <string id="SkiOL_intro_41" text="Blueprint for crafting segmented skullcap with padded coif, usable in the workshop." />
+    <string id="SkiOL_intro_42" text="Blueprint for crafting kettle helm with armored coif, usable in the workshop." />
+    <string id="SkiOL_intro_43" text="Blueprint for crafting iron plate armor, usable in the workshop." />
+    <string id="SkiOL_intro_44" text="Blueprint for crafting a visored helmet, usable in the workshop." />
+    <string id="SkiOL_intro_45" text="Blueprint for crafting leather cloak harness, usable in the workshop." />
+    <string id="SkiOL_intro_46" text="Blueprint for crafting iron plate pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_47" text="Blueprint for crafting warrior bracers, usable in the workshop." />
+    <string id="SkiOL_intro_48" text="Blueprint for crafting warrior's spear, usable in the workshop." />
+    <string id="SkiOL_intro_49" text="Blueprint for crafting reinforced round shield, usable in the workshop." />
+    <string id="SkiOL_intro_50" text="Blueprint for crafting half-body scale armor for horses, usable in the workshop." />
+    <string id="SkiOL_intro_51" text="Blueprint for crafting leather robe with chainmail lining, usable in the workshop." />
+    <string id="SkiOL_intro_52" text="Blueprint for crafting Sword of Justice, usable in the workshop." />
+    <string id="SkiOL_intro_53" text="Blueprint for crafting Purple Shirt Bow, usable in the workshop." />
+    <string id="SkiOL_intro_54" text="Blueprint for crafting wide kite shield, usable in the workshop." />
+    <string id="SkiOL_intro_55" text="Blueprint for crafting high-quality light crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_56" text="Blueprint for crafting bodkin arrows, usable in the workshop." />
+    <string id="SkiOL_intro_57" text="Blueprint for crafting ornamental armed sword, usable in the workshop." />
+    <string id="SkiOL_intro_58" text="Blueprint for crafting knight's armed sword, usable in the workshop." />
+    <string id="SkiOL_intro_59" text="Blueprint for crafting scale shoulder armor, usable in the workshop." />
+    <string id="SkiOL_intro_60" text="Blueprint for crafting a short sickle, usable in the workshop." />
+    <string id="SkiOL_intro_61" text="Blueprint for crafting padded armor with chainmail lining, usable in the workshop." />
+    <string id="SkiOL_intro_62" text="Blueprint for crafting decorative cheek-guarded copper helmet, usable in the workshop." />
+    <string id="SkiOL_intro_63" text="Blueprint for crafting refined steel Empire sword, usable in the workshop." />
+    <string id="SkiOL_intro_64" text="Blueprint for crafting warlord scale armor, usable in the workshop." />
+    <string id="SkiOL_intro_65" text="Blueprint for crafting kettle hat with chainmail coif, usable in the workshop." />
+    <string id="SkiOL_intro_66" text="A regular treasure map. Perhaps you can use the location indicated on the map to find the treasure." />
+    <string id="SkiOL_intro_67" text="A rare treasure map. Perhaps you can use the location indicated on the map to find the treasure's whereabouts." />
+    <string id="SkiOL_intro_68" text="A infrequent treasure map. Perhaps you can use the location indicated on the map to find the treasure's whereabouts." />
+    <string id="SkiOL_intro_69" text="A precious treasure map. Perhaps you can follow the location marked on the map to find the treasure's whereabouts." />
+    <string id="SkiOL_intro_70" text="A legendary treasure map. Perhaps you can follow the location marked on the map to find the treasure's whereabouts." />
+    <string id="SkiOL_intro_71" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_72" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_73" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_74" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_75" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_76" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_77" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_78" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_79" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_80" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_81" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_82" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_83" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_84" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_85" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_86" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_87" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_88" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_89" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_90" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_91" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_92" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_93" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_94" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_95" text="This is one fragment of a treasure map [Treasure Map]. When you collect all fragments (A, B, C, D, E, F, G), you can combine them to create a complete treasure map." />
+    <string id="SkiOL_intro_96" text="To reward closed beta players, you can redeem exclusive items on the official game server. Please make sure to keep the redemption code safe and secure." />
+    <string id="SkiOL_intro_97" text="Regular Activity Chest. Prizes Probability:Denar (50%) Common Equipment (30%) Treasure Map Fragment (10%) Refined Equipment Blueprint (10%)" />
+    <string id="SkiOL_intro_98" text="Advanced Activity Chest. Prizes Probability:Denar (50%) Fine Equipment (30%) Treasure Map Fragment (10%) Refined Equipment (10%)" />
+    <string id="SkiOL_intro_99" text="Regular Precious Activity Chest. Prize Probability: Denar (50%) Refined Equipment (30%) Treasure Map Fragment (10%) Rare Equipment Blueprint (8%) Epic Outfit (2%)" />
+    <string id="SkiOL_intro_100" text="A bounty certificate for a powerful fugitive, which you can redeem for commendations at the quartermaster's office." />
+    <string id="SkiOL_intro_101" text="A bounty certificate for a notorious fugitive, which you can redeem for commendations at the quartermaster's office." />
+    <string id="SkiOL_intro_102" text="A bounty certificate for a dangerous fugitive, which you can redeem for commendations at the quartermaster's office." />
+    <string id="SkiOL_intro_103" text="A bounty certificate for an extremely dangerous fugitive, which you can redeem for commendations at the quartermaster's office." />
+    <string id="SkiOL_intro_104" text="Blueprint for crafting warlord helmet with full chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_105" text="Blueprint for crafting a closed-face warlord helmet, usable in the workshop." />
+    <string id="SkiOL_intro_106" text="Blueprint for crafting heavy warlord pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_107" text="Blueprint for crafting long-sleeve copper scale pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_108" text="Blueprint for crafting Khan's cloth-covered iron armor, usable in the workshop." />
+    <string id="SkiOL_intro_109" text="Blueprint for crafting plate armor with chainmail lining, usable in the workshop." />
+    <string id="SkiOL_intro_110" text="Blueprint for crafting Khan's splint bracers, usable in the workshop." />
+    <string id="SkiOL_intro_111" text="Blueprint for crafting splinted vambraces, usable in the workshop." />
+    <string id="SkiOL_intro_112" text="Blueprint for crafting splinted boots, usable in the workshop." />
+    <string id="SkiOL_intro_113" text="Blueprint for crafting Nord guard plated boots, usable in the workshop." />
+    <string id="SkiOL_intro_114" text="Blueprint for crafting fully armored cavalry eye socket helmet, usable in the workshop." />
+    <string id="SkiOL_intro_115" text="Blueprint for crafting reinforced ornate pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_116" text="Blueprint for crafting fully armored cavalry gambeson, usable in the workshop." />
+    <string id="SkiOL_intro_117" text="Blueprint for crafting Sentinel, usable in the workshop." />
+    <string id="SkiOL_intro_118" text="Blueprint for crafting an executioner's axe, usable in the workshop." />
+    <string id="SkiOL_intro_119" text="Blueprint for crafting a heavy executioner's axe, usable in the workshop." />
+    <string id="SkiOL_intro_120" text="Blueprint for crafting a light cavalry lance, usable in the workshop." />
+    <string id="SkiOL_intro_121" text="Blueprint for crafting a triangular-bladed spear, usable in the workshop." />
+    <string id="SkiOL_intro_122" text="Blueprint for crafting a narrow-bladed spear, usable in the workshop." />
+    <string id="SkiOL_intro_123" text="Blueprint for crafting the bodyguard cavalry lance, usable in the workshop." />
+    <string id="SkiOL_intro_124" text="Blueprint for crafting a high-quality steel cleaving spear, usable in the workshop." />
+    <string id="SkiOL_intro_125" text="Blueprint for crafting a heavy knight's lance, usable in the workshop." />
+    <string id="SkiOL_intro_126" text="Blueprint for crafting noble cavalry lance, usable in the workshop." />
+    <string id="SkiOL_intro_127" text="Blueprint for crafting a giant shield, usable in the workshop." />
+    <string id="SkiOL_intro_128" text="Blueprint for crafting reinforced willow square shield, usable in the workshop." />
+    <string id="SkiOL_intro_129" text="Blueprint for crafting a heavy round shield, usable in the workshop." />
+    <string id="SkiOL_intro_130" text="Blueprint for crafting a knight's kite shield, usable in the workshop." />
+    <string id="SkiOL_intro_131" text="Blueprint for crafting a heavy recurve bow, usable in the workshop." />
+    <string id="SkiOL_intro_132" text="Blueprint for crafting a steppe recurve bow, usable in the workshop." />
+    <string id="SkiOL_intro_133" text="Blueprint for crafting a steppe war bow, usable in the workshop." />
+    <string id="SkiOL_intro_134" text="Blueprint for crafting a noble bow, usable in the workshop." />
+    <string id="SkiOL_intro_135" text="Blueprint for crafting a noble longbow, usable in the workshop." />
+    <string id="SkiOL_intro_136" text="Blueprint for crafting a woodland longbow, usable in the workshop." />
+    <string id="SkiOL_intro_137" text="Blueprint for crafting a nomad bow, usable in the workshop." />
+    <string id="SkiOL_intro_138" text="Blueprint for crafting a tribal bow, usable in the workshop." />
+    <string id="SkiOL_intro_139" text="Blueprint for crafting light bodkin arrows, usable in the workshop." />
+    <string id="SkiOL_intro_140" text="Blueprint for crafting a large bag of bodkin arrows, usable in the workshop." />
+    <string id="SkiOL_intro_141" text="Blueprint for crafting armor-piercing arrows, usable in the workshop." />
+    <string id="SkiOL_intro_142" text="Blueprint for crafting a light crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_143" text="Blueprint for crafting a walnut crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_144" text="Blueprint for crafting an iron-plated crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_145" text="Blueprint for crafting heavy crossbow bolts, usable in the workshop." />
+    <string id="SkiOL_intro_146" text="Blueprint for crafting a leather coif with eye guard, usable in the workshop." />
+    <string id="SkiOL_intro_147" text="Blueprint for crafting a visored helmet with a laced coif, usable in the workshop." />
+    <string id="SkiOL_intro_148" text="Blueprint for crafting a cheek-guarded warlord helmet, usable in the workshop." />
+    <string id="SkiOL_intro_149" text="Blueprint for crafting a crown helmet, usable in the workshop." />
+    <string id="SkiOL_intro_150" text="Blueprint for crafting a sea raider eye socket helmet, usable in the workshop." />
+    <string id="SkiOL_intro_151" text="Blueprint for crafting a noble steel cap, usable in the workshop." />
+    <string id="SkiOL_intro_152" text="Blueprint for crafting a noble lancer helmet with neck guard and plume, usable in the workshop." />
+    <string id="SkiOL_intro_153" text="Blueprint for crafting a splint crown helmet, usable in the workshop." />
+    <string id="SkiOL_intro_154" text="Blueprint for crafting a visored helmet with chainmail coif, usable in the workshop." />
+    <string id="SkiOL_intro_155" text="Blueprint for crafting a crested warlord helmet, usable in the workshop." />
+    <string id="SkiOL_intro_156" text="Blueprint for crafting a gambeson shoulder lining, usable in the workshop." />
+    <string id="SkiOL_intro_157" text="Blueprint for crafting reinforced scale pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_158" text="Blueprint for crafting ornate pauldrons with a cape, usable in the workshop." />
+    <string id="SkiOL_intro_159" text="Blueprint for crafting decorated leather harness with scale armor lining, usable in the workshop." />
+    <string id="SkiOL_intro_160" text="Blueprint for crafting reinforced ornate shoulder armor with scale armor lining, usable in the workshop." />
+    <string id="SkiOL_intro_161" text="Blueprint for crafting master-level Southern Scale Armor, usable within the workshop." />
+    <string id="SkiOL_intro_162" text="Blueprint for making Steppe Armored Lancers, usable in the workshop." />
+    <string id="SkiOL_intro_163" text="Blueprint for crafting Heavy Steppe Armor Vest, usable in the workshop." />
+    <string id="SkiOL_intro_164" text="Blueprint for crafting Luxurious Scale Armor, usable in the workshop." />
+    <string id="SkiOL_intro_165" text="Blueprint for crafting Luxurious Fabric-covered Plate Armor, usable in the workshop." />
+    <string id="SkiOL_intro_166" text="Blueprint for crafting Heavy Steppe Chainmail Under Armor, usable in the workshop." />
+    <string id="SkiOL_intro_167" text="Blueprint for crafting Fabric-covered Plate Chainmail Under Armor, usable in the workshop." />
+    <string id="SkiOL_intro_168" text="Blueprint for crafting Noble Chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_169" text="Blueprint for crafting Steppe Armor with Scale Skirt, usable in the workshop." />
+    <string id="SkiOL_intro_170" text="Blueprint for crafting Heavy Scale Chainmail Under Armor, usable in the workshop." />
+    <string id="SkiOL_intro_171" text="Blueprint for crafting Heavy Steppe Chainmail Over Armor, usable in the workshop." />
+    <string id="SkiOL_intro_172" text="Blueprint for crafting Masterwork Southern Scale Mail, usable in the workshop." />
+    <string id="SkiOL_intro_173" text="Blueprint for crafting Copper Bracers, usable in the workshop." />
+    <string id="SkiOL_intro_174" text="Blueprint for crafting Warlord Scale Bracers, usable in the workshop." />
+    <string id="SkiOL_intro_175" text="Blueprint for crafting Scale Boots, usable in the workshop." />
+    <string id="SkiOL_intro_176" text="Blueprint for crafting Chainmail Leg Guards, usable in the workshop." />
+    <string id="SkiOL_intro_177" text="Blueprint for crafting Steppe-tied Chainmail Leg Guards, usable in the workshop." />
+    <string id="SkiOL_intro_178" text="Blueprint for crafting Reinforced Suede Boots, usable in the workshop." />
+    <string id="SkiOL_intro_179" text="Blueprint for crafting Half-Body Chainmail Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_180" text="Blueprint for crafting Reinforced Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_181" text="Blueprint for crafting Reinforced Half-Plate Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_182" text="Blueprint for crafting Fully-Equipped Cavalry Half-Plate Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_183" text="Blueprint for crafting Reinforced Chainmail Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_184" text="Blueprint for crafting Reinforced Plate Horse Armor, usable in the workshop." />
+    <string id="SkiOL_intro_185" text="Ticket for traveling from Lirik to Nordvisaszi at the mouth of the Xavier, aboard a smuggler's ship." />
+    <string id="SkiOL_intro_186" text="Ticket for sailing from Pasang Trade Port to the western coast of Aeryn, to Efrey." />
+    <string id="SkiOL_intro_187" text="Ticket for sailing from Pasang Trade Port to the Emerald Bay of Aeryn, to Vale." />
+    <string id="SkiOL_intro_188" text="Ticket for traveling from Xavier to the southeast coast of Renfald aboard a smuggler's ship, to Lirik." />
+    <string id="SkiOL_intro_189" text="Ticket for sailing from Efrey to Salths in the northern part of Renfald, to Pasang Trade Port." />
+    <string id="SkiOL_intro_190" text="Ticket for sailing from Vale to Salths in the northern part of Renfald, to Pasang Trade Port." />
+    <string id="SkiOL_intro_191" text="Recruitment notice for companions with special backgrounds." />
+    <string id="SkiOL_intro_192" text="Recruitment poster for companions with unique backgrounds." />
+    <string id="SkiOL_intro_193" text="This weathered noble banner represents a lineage steeped in history. As its bearer, you can lay claim to inheriting this ancient honor, establishing your family lineage." />
+    <string id="SkiOL_intro_194" text="This appears to be part of a flag. You'll need to find the remaining parts to fully utilize it." />
+    <string id="SkiOL_intro_195" text="This seems to be a fragment of a flag. You'll need to find the rest of it to make it functional." />
+    <string id="SkiOL_intro_196" text="This seems to be a fragment of a flag. You'll need to find the remaining parts to make it complete and functional." />
+    <string id="SkiOL_intro_197" text="Blueprint for crafting Vambraces, usable in the workshop." />
+    <string id="SkiOL_intro_198" text="Blueprint for crafting Greaves, usable in the workshop." />
+    <string id="SkiOL_intro_199" text="Can be exchanged for prestige at the quartermaster's office." />
+    <string id="SkiOL_intro_200" text="Can be exchanged for military merit at the quartermaster's office." />
+    <string id="SkiOL_intro_201" text="Blueprints for crafting a closed-face knight's helmet, usable in the workshop." />
+    <string id="SkiOL_intro_202" text="Blueprints for crafting a Nord Guard chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_203" text="Blueprints for crafting a reinforced oak kite shield, usable in the workshop." />
+    <string id="SkiOL_intro_204" text="Blueprints for crafting an Imperial throwing spear, usable in the workshop." />
+    <string id="SkiOL_intro_205" text="Blueprints for crafting a rough fur-lined chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_206" text="Blueprints for crafting a kettle hat-lined chainmail, usable in the workshop." />
+    <string id="SkiOL_intro_207" text="Blueprints for crafting a simple raider battle axe, usable in the workshop." />
+    <string id="SkiOL_intro_208" text="Blueprints for crafting heavy ring mail, usable in the workshop." />
+    <string id="SkiOL_intro_209" text="Blueprints for crafting a veteran warrior's axe, usable in the workshop." />
+    <string id="SkiOL_intro_210" text="Blueprints for crafting a fur cloak with rondel, usable in the workshop." />
+    <string id="SkiOL_intro_211" text="Blueprints for crafting a large round shield, usable in the workshop." />
+    <string id="SkiOL_intro_212" text="Blueprints for crafting a tribal throwing axe, usable in the workshop." />
+    <string id="SkiOL_intro_213" text="Blueprints for crafting a harpoon spear, usable in the workshop." />
+    <string id="SkiOL_intro_214" text="Blueprints for crafting Avalanche, usable in the workshop." />
+    <string id="SkiOL_intro_215" text="Blueprints for crafting a one-handed beard axe, usable in the workshop." />
+    <string id="SkiOL_intro_216" text="Blueprints for crafting reinforced mercenary armor, usable in the workshop." />
+    <string id="SkiOL_intro_217" text="Blueprints for crafting a longsword, usable in the workshop." />
+    <string id="SkiOL_intro_218" text="Blueprints for crafting a padded liner for a visored helmet, usable in the workshop." />
+    <string id="SkiOL_intro_219" text="Blueprints for crafting rough cloth-covered iron armor, usable in the workshop." />
+    <string id="SkiOL_intro_220" text="Blueprints for crafting a basic knife, usable in the workshop." />
+    <string id="SkiOL_intro_221" text="Blueprints for crafting a forged iron dagger, usable in the workshop." />
+    <string id="SkiOL_intro_222" text="Blueprints for crafting a single-edged sword, usable in the workshop." />
+    <string id="SkiOL_intro_223" text="Blueprints for crafting a star-headed single-edged sword, usable in the workshop." />
+    <string id="SkiOL_intro_224" text="Blueprints for crafting a cleaver, usable in the workshop." />
+    <string id="SkiOL_intro_225" text="Blueprints for crafting a steel-tipped hooked spear, usable in the workshop." />
+    <string id="SkiOL_intro_226" text="Blueprints for crafting a serrated high-quality steel spear, usable in the workshop." />
+    <string id="SkiOL_intro_227" text="Blueprints for crafting a spiked battle sword, usable in the workshop." />
+    <string id="SkiOL_intro_228" text="Blueprints for crafting an iron-armored sword, usable in the workshop." />
+    <string id="SkiOL_intro_229" text="Blueprints for crafting a heavy crossbow, usable in the workshop." />
+    <string id="SkiOL_intro_230" text="Blueprints for crafting reinforced plated gauntlets, usable in the workshop." />
+    <string id="SkiOL_intro_231" text="Blueprints for crafting a fur great cloak with a rondel, usable in the workshop." />
+    <string id="SkiOL_intro_232" text="Blueprints for crafting a Nord Visor with horns, usable in the workshop." />
+    <string id="SkiOL_intro_233" text="Blueprints for crafting Nord Visor Warrior Armor, usable in the workshop." />
+    <string id="SkiOL_intro_234" text="Blueprints for crafting Nord Visor Warrior Bracers, usable in the workshop." />
+    <string id="SkiOL_intro_235" text="Blueprints for crafting Nord Visor Warrior Pauldrons, usable in the workshop." />
+    <string id="SkiOL_intro_236" text="Blueprints for crafting Nord Visor Warrior Strapped Boots, usable in the workshop." />
+    <string id="SkiOL_intro_237" text="Blueprints for crafting a Nord Visor Berserker Helmet, usable in the workshop." />
+    <string id="SkiOL_intro_238" text="Blueprints for crafting Nord Visor Berserker Armor, usable in the workshop." />
+    <string id="SkiOL_intro_239" text="Blueprints for crafting Nord Visor Berserker Bracers, usable in the workshop." />
+    <string id="SkiOL_intro_240" text="Blueprints for crafting Nord Visor Berserker Gorget, usable in the workshop." />
+    <string id="SkiOL_intro_241" text="Blueprints for crafting Nord Visor Berserker Greaves, usable in the workshop." />
+    <string id="SkiOL_intro_242" text="Blueprints for crafting Billhook. usable in the workshop." />
+  </strings>
+</base>

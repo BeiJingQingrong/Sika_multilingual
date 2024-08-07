@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="harbor" text="Harbor"/>
+    <string id="Settlements.Settlement.name.town_Erin_A1" text="Gravia"/>
+    <string id="Settlements.Settlement.name.town_Erin_A2" text="Quintus"/>
+    <string id="Settlements.Settlement.name.town_Erin_A3" text="Terinia"/>
+    <string id="Settlements.Settlement.name.town_Erin_A4" text="Deladeno"/>
+    <string id="Settlements.Settlement.name.town_Erin_A5" text="Altaria"/>
+    <string id="Settlements.Settlement.name.town_Erin_A6" text="Diosto"/>
+    <string id="Settlements.Settlement.name.town_Erin_A7" text="Rosettal"/>
+    <string id="Settlements.Settlement.name.town_Erin_A8" text="Bravesta"/>
+    <string id="Settlements.Settlement.name.town_Erin_A9" text="Adra"/>
+    <string id="Settlements.Settlement.name.town_Erin_A10" text="Pondilion"/>
+    <string id="Settlements.Settlement.name.town_Erin_A11" text="Horatius"/>
+    <string id="Settlements.Settlement.name.town_Erin_A12" text="Warren Town"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A1" text="Fernan Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A2" text="Rog Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A3" text="Mykonos Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A4" text="Kos Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A5" text="Look South Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A6" text="Serades Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A7" text="Berge Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A8" text="Jaschia Castle"/>
+    <string id="Settlements.Settlement.name.castle_Erin_A9" text="Ulun Castle"/>
+    <string id="Settlements.Settlement.name.village_Erin_A1" text="Rosenlay"/>
+    <string id="Settlements.Settlement.name.village_Erin_A2" text="Elton"/>
+    <string id="Settlements.Settlement.name.village_Erin_A3" text="Orkney"/>
+    <string id="Settlements.Settlement.name.village_Erin_A4" text="Tefasa"/>
+    <string id="Settlements.Settlement.name.village_Erin_A5" text="Weston"/>
+    <string id="Settlements.Settlement.name.village_Erin_A6" text="Midle"/>
+    <string id="Settlements.Settlement.name.village_Erin_A7" text="Even"/>
+    <string id="Settlements.Settlement.name.village_Erin_A8" text="Ravens"/>
+    <string id="Settlements.Settlement.name.village_Erin_A9" text="Buriek"/>
+    <string id="Settlements.Settlement.name.village_Erin_A10" text="Ferracher"/>
+    <string id="Settlements.Settlement.name.village_Erin_A11" text="Flares"/>
+    <string id="Settlements.Settlement.name.village_Erin_A12" text="Virginessa"/>
+    <string id="Settlements.Settlement.name.village_Erin_A13" text="Winter"/>
+    <string id="Settlements.Settlement.name.village_Erin_A14" text="Solachi"/>
+    <string id="Settlements.Settlement.name.village_Erin_A15" text="Oakley"/>
+    <string id="Settlements.Settlement.name.village_Erin_A16" text="Bradford"/>
+    <string id="Settlements.Settlement.name.village_Erin_A17" text="Avery"/>
+    <string id="Settlements.Settlement.name.village_Erin_A18" text="Walz"/>
+    <string id="Settlements.Settlement.name.village_Erin_A19" text="Whigton"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A1" text="Lesto"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A2" text="Seville"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A3" text="Valle"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A4" text="Finch"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A5" text="Lanosk"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A6" text="Bellamel"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A7" text="Tebos"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A8" text="Salz"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A9" text="Roselet"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A10" text="Risen"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A11" text="Belem"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A12" text="Drades"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A13" text="Alver"/>
+    <string id="Settlements.Settlement.name.castle_village_Erin_A14" text="Fia"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A1" text="Nidhogg"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A2" text="Hogundar"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A3" text="Altay"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A4" text="Dildavo"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A5" text="Skolson"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A6" text="Sterling"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A7" text="Navish"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A8" text="Delfakos"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A9" text="Lofson"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A10" text="Dugarin"/>
+    <string id="Settlements.Settlement.name.town_Nordvisa_A11" text="Grimda"/>
+    <string id="Settlements.Settlement.name.castle_Nordvisa_A1" text="Haugen Castle"/>
+    <string id="Settlements.Settlement.name.castle_Nordvisa_A2" text="Birney Castle"/>
+    <string id="Settlements.Settlement.name.castle_Nordvisa_A3" text="Witte Castle"/>
+    <string id="Settlements.Settlement.name.castle_Nordvisa_A4" text="Harald Castle"/>
+    <string id="Settlements.Settlement.name.castle_Nordvisa_A5" text="Dunk Castle"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A1" text="Northland"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A2" text="Helga"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A1" text="Vilda"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A2" text="Fenrik"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A3" text="Accuride"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A3" text="Hogans"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A4" text="Krot"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A4" text="Tolst"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A5" text="Virginia"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A6" text="Widtum"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A7" text="Fresta"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A5" text="Esslen"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A6" text="Bleka"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A8" text="Midgar"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A9" text="Novak"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A7" text="Solheim"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A10" text="Graver"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A11" text="Logan Wa"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A8" text="Vidal"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A9" text="Svalen"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A10" text="Orva"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A11" text="Isol"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A12" text="Ubuyas"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A12" text="Norland"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A13" text="Highluna"/>
+    <string id="Settlements.Settlement.name.castle_village_Nordvisa_A13" text="Xavier"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A14" text="Swell"/>
+    <string id="Settlements.Settlement.name.village_Nordvisa_A15" text="Graeme"/>
+    <string id="Settlements.Settlement.text.town_Erin_A1" text="Gravia is in the middle of the mountains, and the steep slopes are covered with towering spruce and fir. Villagers use traps to trap fur-bearing beasts such as martens, rabbits, and foxes. This barren land has recently attracted many new settlers, who have come for the relative freedom of the forest, and the aristocracy has a much more relaxed rule in the area than in the south."/>
+    <string id="Settlements.Settlement.text.town_Erin_A2" text="Quintus is located in the foothills of West Coast Bay. Villagers head out to sea to the west to catch cod, salmon and other cold-water fish that venture into the bay."/>
+    <string id="Settlements.Settlement.text.town_Erin_A3" text="Terynia is located on the western seashore. Villagers fetch rainwater and surface water from the mountains to irrigate their fields and date orchards."/>
+    <string id="Settlements.Settlement.text.town_Erin_A4" text="Dradino is located in the open plains of the western part of the continent, with sparse acacia forests nearby. Some of the best horses in Assele graze in the area."/>
+    <string id="Settlements.Settlement.text.town_Erin_A5" text="Alteria lies below the upper gorge. When the current is gentle, villagers scrape silt from pools and mud ponds along the river and plant farmland along the stream."/>
+    <string id="Settlements.Settlement.text.town_Erin_A6" text="Diosto is located on the eastern border, in a shady forest valley under a hill. Local villagers collect soil in the wetlands and make potters."/>
+    <string id="Settlements.Settlement.text.town_Erin_A7" text="Located south of the Ka River, Rosseldale outlines its boundaries and then joins into a network of lakes, streams, and lagoons. Local villagers raise sheep that feed on the grass in the swamp."/>
+    <string id="Settlements.Settlement.text.town_Erin_A8" text="The hills on which Bravista is located are divided by a steep canyon at the mouth of the canyon. The soil in this area is poor, but the villagers do a good job of raising pigs and other livestock."/>
+    <string id="Settlements.Settlement.text.town_Erin_A9" text="Adela sits at the foot of a high mountain, shielding itself from the biting cold winds blowing from the northwest. Residents of the surrounding area came here to look for the silver mines next to the stream."/>
+    <string id="Settlements.Settlement.text.town_Erin_A10" text="Pondilion is located at the foot of the mountain, near the southern end of the mountains. Local villagers raise cattle to withstand the cold winter and heat."/>
+    <string id="Settlements.Settlement.text.town_Erin_A11" text="The villagers of Warren would graze small cattle at the foot of the hill that were easy to feed. Among them are the descendants of refugees and frustrated people from all over Calradia, who live in seclusion in the cold boreal forest."/>
+    <string id="Settlements.Settlement.text.town_Erin_A12" text="Horatius is located on the northern edge of the forest. It's a stronghold for traders who venture into the depths of the forest, who have to face the cold and wolves, as well as fur-seeking, moody forest dwellers, and bounty hunters of the Northlands."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A1" text="Fort Fernand is located near the north coast, on a warm hill on the western side of the mainland. The abundant black soil made the region the breadbasket of the empire"/>
+    <string id="Settlements.Settlement.text.castle_Erin_A2" text="Fort Rogo is located on the edge of the Great Lagoon divided by a sand spit. Villagers scrape clay from shallow waters and sell it to local potters."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A3" text="Mykonos Fort is located on the rolling hills of the central part of the country. The village specialises in white grapes, which are used to make sweet wines."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A4" text="Cosberg is located at the foot of the hills, and despite the relatively arid climate, farmers rely on artesian well water to produce a good wheat harvest."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A5" text="Wangnan Fort is located on a hill mouth in the northern part of the Akkan hills. Red streaks on the soil and rocks indicate that the area is rich in iron ore and that the villagers are mining it."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A6" text="The Serratesburg is located on a gentle slope south of the lake. Southerly currents make misty mornings cooler, and warmer afternoons allow local grapes to thrive."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A7" text="The name Berg Castle derives from the iron-rich red soil of the hills. The mines in the area supplied iron ore to many of the kingdom's forges."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A8" text="Yaschia Fort is located on a slope in the central hills. Local villagers graze their sheep on pastures between coastal woods and alpine cliffs."/>
+    <string id="Settlements.Settlement.text.castle_Erin_A9" text="Urenburg is built on the source of a river on the plateau. Wheat grows well on this sunny plain."/>
+    <string id="Settlements.Settlement.text.village_Erin_A1" text="Rosenley is located on the southern shore of what the people of Asale call the wind. Villagers get their water from surface runoff in the mountains and collect stones in the lowlands."/>
+    <string id="Settlements.Settlement.text.village_Erin_A2" text="Elton overlooks the Great Falls, a series of rapids that eventually join the Mijon River and flow into the lake. The village sits on a cliff in order to protect the frontier from bandits."/>
+    <string id="Settlements.Settlement.text.village_Erin_A3" text="Orkney is located on a small, wooded hill in the middle. Local villagers cut down oak, yew and beech forests. For hundreds of years, the villagers have cared for the trees to ensure that the timber is always sufficient to be harvested and sold."/>
+    <string id="Settlements.Settlement.text.village_Erin_A4" text="Tefasa is a new village located on a gentle slope in a valley that has only recently been carved out of a forest. Local landowners built breeding farms to provide horses for the Imperial cavalry troops."/>
+    <string id="Settlements.Settlement.text.village_Erin_A5" text="Weston sits in the middle of a valley with a gentle climb to the base of a rocky mountain. Villagers graze their sheep on the hillside, and vultures hovering high in the sky overlook the misty plains below, hence the name of the mountain."/>
+    <string id="Settlements.Settlement.text.village_Erin_A6" text="The junction of the Middleside Plains and the seaside hills. Sheep graze on a gentle slope overlooking the misty flatlands."/>
+    <string id="Settlements.Settlement.text.village_Erin_A7" text="Evan is located at the southern end of the flat plains. Before the Empire's invasion, it was a good breeding area, supplying riders with horses to chase after their enemies until the former was finally defeated and absorbed into the Imperial cavalry force."/>
+    <string id="Settlements.Settlement.text.village_Erin_A8" text="Ravens is located in a gentle area in the northern part of the hills. Red streaks on the soil and rocks indicate that the area is rich in iron ore and that the villagers are mining it."/>
+    <string id="Settlements.Settlement.text.village_Erin_A9" text="The Bori Sho overlooks the rushing river from which the water from the giant lake flows into the bay. The horses raised in the local meadows were loved by northern robbers and traders."/>
+    <string id="Settlements.Settlement.text.village_Erin_A10" text="Feracher is located at the foot of a small, wooded hill in the northern part of the continent. Local villagers cut down oak, yew and beech forests. For hundreds of years, the villagers have cared for the trees to ensure that the timber is always sufficient to be harvested and sold."/>
+    <string id="Settlements.Settlement.text.village_Erin_A11" text="Franreis is located at the southern end of the hills. The soil is severely fragmented and weathered, and the iron ore layer is exposed between the ravines."/>
+    <string id="Settlements.Settlement.text.village_Erin_A12" text="Virginissa is on a vast plain north of the Giant Mountain. It's the land of high-quality sheep, but the area has been swept away by imperial fugitives, freedfolk riders, and steppe nomads, and the local villagers have learned to keep an eye on their flocks."/>
+    <string id="Settlements.Settlement.text.village_Erin_A13" text="Winter is close to the beginning of a steep valley leading to the empire's territory. Good clay can be collected from the creek that runs down the mountain."/>
+    <string id="Settlements.Settlement.text.village_Erin_A14" text="Soraci is located in a valley where the icy slow current flows into the lake. This flat, moist land is suitable for growing flax."/>
+    <string id="Settlements.Settlement.text.village_Erin_A15" text="Ocre is a cattle village known to the Empire as Minard River, the pass of the Mountain of War. It was one of the main routes connecting the inhospitable north with the relatively stable territory of the Empire, both for trade and for raiding."/>
+    <string id="Settlements.Settlement.text.village_Erin_A16" text="Bradford is located in a gentle plain at the foot of the snow-capped mountains. Streams in the highlands irrigated the fertile soil on the hillsides, making the region one of the granaries of the northern empire."/>
+    <string id="Settlements.Settlement.text.village_Erin_A17" text="Avery is situated next to a small bay that flows into an inland bay. Blessed by the hot winds of the south and the springs of the mountains, it was used by the landowners of the empire for experimental planting of date palms."/>
+    <string id="Settlements.Settlement.text.village_Erin_A18" text="Walz is a small fishing village overlooking a small bay on the shore. Villagers sail to the western seas in search of mullet and sea bass near the coast, and tuna and sardines near the islands to the south."/>
+    <string id="Settlements.Settlement.text.village_Erin_A19" text="Huigoton is a fishing village on the west coast of the mainland. Villagers weave their way through the storms of the deep sea, harvesting pods full of cod, char and sometimes even calves."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A1" text="Lesto is a fishing village on the coast. Giant barracuda can sometimes be found in the sea, but more commonly sea bass and snapper."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A2" text="Sevier is a fishing village on the west coast. Villagers place nets and cages in the shallows of the sea to catch carp, sea bream, sea bass and crayfish."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A3" text="Valais was located at the mouth of the coast that flowed into the interior of the empire. The warm waters of the region are rich in tuna, bonito, sardines and other fish."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A4" text="Vinci is located in the largest forest in the Empire. The trees grow tall in the shady areas of the mountains, and the villagers cut down the pine trees and sell the timber."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A5" text="Ranosque is located on the coastline. The village makes a living from fishing, fishing from the lake for sea bass, sea bream, salmon and occasionally large sturgeon and barracuda."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A6" text="Bellamel sits at the foot of the inland mountains. The villagers mined iron ore from the mountains and sold it to the big blacksmiths in nearby villages and towns."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A7" text="Tworth sits atop a high mountain in the interior of the Empire. The soil was poor, but the trees grew strong, making it a major source of timber for the Empire."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A8" text="Salz sits in the densely forested foothills of the Imperial Mountains. Villagers harvest tall trees and sell them to coastal cities."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A9" text="Rossley is located on the plateau of the Imperial Territory, in the middle of a canyon. The soil is not very fertile, but the high bushland is suitable for raising pigs."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A10" text="Risen is located on the north side of the river. The water is clear and the soil is fertile, and cereals can be grown. But a short distance to the south, there is barren saline land, which can only grow crops that are particularly easy to feed."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A11" text="Belém is located in a river valley in the interior of the empire. River irrigation and a relatively warm inland climate ensured high yields in the wheat fields of the region and neighboring Bergon, feeding many people in the central part of the empire."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A12" text="Draddes was located in the far north of the Empire, just off the shores of the glaciers, and the ships were flowing south. The area is relatively sparsely populated, but the lush meadows are home to large herds of cattle."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A13" text="Alver is not far from the icy Biancian Sea. Despite the snow almost all year round, the spring grass still feeds a considerable number of sheep, and the thick wool produced by the sheep helps to protect the people from the biting cold winds that blow from the sea."/>
+    <string id="Settlements.Settlement.text.castle_village_Erin_A14" text="Fia is located on the edge of a network of glacial lakes called the Iletan Transport Line. Villagers grow rye and barley on the high ground overlooking the lake, and the fertile black soil compensates for the long winters and short growing seasons."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A1" text="Niderhogg is located at the junction of temperate and cold zones, and it is also a gateway for seawater to flow inland. The sea breeze brought just enough rain to plant some olive trees."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A2" text="Hogenta is located on the eastern shore of the icy sea. Long before it became a principality, it was a sacred place for the forest tribesmen, who worshipped gods and ancestors by the oak trees in the woods. Today, it is a bazaar for fur hunters and woodcutters who wander the moors to the east. The pristine silence of the forest is also interrupted by the cacophony of hawking, sawing and the unloading of boats on the lake."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A3" text="Located on an icy snow-capped mountain, Altay was founded by nearby immigrants. Standing tall on the tower, the guards keep an eye out for signals from the border fortresses to the north, east, or west to warn of the arrival of raiders."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A4" text="Tildavao is located at the mouth of the icy and slow Vis River where it joins Loch Ness. This land once belonged to the Imperials, who saw it as a protector against the more belligerent northerners. But then they were conquered by the north, and their ancient language and customs disappeared."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A5" text="Sculsen is located on the northern edge of Mount Letan, an area that has long been isolated from the power struggles of other principalities. The locals are mostly vagrants, traders, horse breeders and fur hunters. Occasionally, local nobles would marry princesses to nomadic tribes to the east to cement trade agreements."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A6" text="Located at the foot of Mount Tegue, on the shores of sparkling Lake Lanis, Stirling is famous for being the most conquered city on the continent. It was originally a colony of the Empire, and the senators of the Contradiction were often exiled there. It was later seized by the northerners and used to expand its influence in the fur trade."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A7" text="Navish, or White Fortress, was built by the dreaded Padishh Khosh Tower during his expedition. The flame above the fort has not been extinguished for decades, symbolizing his suzerainty over the many local nobles. But Padi Shah's rule also gradually went on the defensive and eventually retreated eastward."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A8" text="Del Facos is located in the foothills of the Dawn Mountains. One of the most remote towns, it is known for being the royal residence of King Ahhak, a mythical tyrant with a pit viper wrapped around his shoulders. Even today, rumors still spread that the Dawn Mountains are a land of dark magic and mysteries that outsiders are not allowed to enter."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A9" text="Lofersen sits on a gentle slope jutting out of a majestic iceberg. In the last years of the Empire's conquest, a peaceful union was negotiated with the Empire, only to be taken away by the leader of the Northern Legion. The ensuing siege was only the first of a series of sieges in the centuries that followed, as the city was surrounded by rich silver veins that would be targeted by any pretender to the throne who wanted to seize power in a civil war. It is even rumored that the vultures that live on the top of the rocky mountain have feasted on every ethnic group on land."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A10" text="Dujarin was one of the few towns that was founded after seizing the land from the Empire. Using the crater as a barrier, legend has it that it is the footprint of a giant."/>
+    <string id="Settlements.Settlement.text.town_Nordvisa_A11" text="Grimda sits at the foot of a high mountain and watches the river flow inland. According to legend, the goddess of water lived in a dark pool beneath the rocks, tempting travelers and trespassers to their deaths, and only on rare occasions would the goddess fall in love with a hero, granting him victory and blessings. Of course, the rumors from these fishermen were only out of awe of the upper reaches of the Tran, because if you take the wrong step on the slippery stones, you will fall into the rushing water."/>
+    <string id="Settlements.Settlement.text.castle_Nordvisa_A1" text="Haugenburg is located in an inland bay. Locally bred hardy northern cattle find grass to eat in the crevices of the rocks, and in times of hardship they replenish some seaweed."/>
+    <string id="Settlements.Settlement.text.castle_Nordvisa_A2" text="Fort Bernie is located on a flat hill in the bay. The climate is cold, but the surface water that flows down from the mountains brings fertile soil, and the villagers grow hardy crops such as rye and barley."/>
+    <string id="Settlements.Settlement.text.castle_Nordvisa_A3" text="Wittburg is close to the junction of the river, just west of the castle. The villagers of this clammy land grow flax in the muddy valleys."/>
+    <string id="Settlements.Settlement.text.castle_Nordvisa_A4" text="Fort Harald is located on the plains of the wilderness. The villagers braved the cold and wolves, the fur-seeking, moody forest dwellers, and the bounty hunters of the Northlands."/>
+    <string id="Settlements.Settlement.text.castle_Nordvisa_A5" text="Dunkerburg is a cattle breeding place, located at the pass of the Mountain of War. It was one of the main routes connecting the inhospitable north with the relatively stable territory of the Empire, both for trade and for raiding."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A1" text="Northumbland sits on two small tributaries and is surrounded by grassy lowlands. Most of the locals both raised and stole cattle, and had long raided the villages on the border of the empire to the east."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A2" text="Helga, or Black Forest, is located on a piece of land carved out of forests. Villagers grow rye and barley in their fields near the water's edge."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A1" text="Vilda is a sheep farming village on the gentle slopes of icebergs. The region is cold and remote, making it a relatively sparse population."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A2" text="Fenrik sits on a cliff on the north shore of the iceberg. The cold winter freezes the rocks, exposing the veins of iron ore buried deep in them, and the villagers are mining in the mountains."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A3" text="Accuride sits at the foot of the iceberg. Villagers go to the nearby woods to harvest timber."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A3" text="Hogans is located on the north-south transportation line, which is a network of rivers. Villagers catch spiny sea bass and crayfish in shallow water, dry them and sell them to travelers."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A4" text="Nestled on the flat land of the Wasteland, Krot is used as a base by hunters who go to the dark forests of the north to hunt for furs."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A4" text="Torst overlooks the Great Falls, a series of rushing water that eventually joins the river below. The village sits on a cliff in order to protect the frontier from bandits."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A5" text="Vigia is located on a woodland plain beneath the valley. The trees grow tall in the shady areas of the mountains, and the villagers cut down the pine trees and sell the timber."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A6" text="Vedum sits beside rye and barley fields near the inland river on the edge of the heath. The village prospered by selling grain to the fur hunting area in the forest."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A7" text="Freesta is located in the middle of the iceberg mountains. The soil is poor and the climate is cold, but the abundant iron ore resources support the local economy."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A5" text="Esslen sits on a hillside on the northern border. The villagers here raise a breed of highland cattle that can withstand the biting cold winds that blow from the mountains."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A6" text="Located on the northern banks of the river, the bay is relatively calm and many species of fish swim here during the breeding season, which is well taken advantage of by local fishermen."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A8" text="Midgar is a fishing village overlooking the rapids that connect two river bays. Villagers walk down the cliffs at dawn to catch salmon jumping over the rocks, as well as herring and cod in the sea."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A9" text="Novak sits on a rocky ridge. If there were no iron ore in the mountains in this bitter cold land, it is estimated that no one would have settled here."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A7" text="Solheim falls on the seashore of an inland river. Villagers catch freshwater flounder in the narrow bay waters, and also catch larger aquatic animals such as barracuda in the main lake area."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A10" text="Graver is a colony in the wasteland. The villagers braved the cold and wolves, the fur-seeking, moody forest dwellers, and the bounty hunters of the Northlands."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A11" text="Loganwa is one of the rocky, less fertile parts of the plains, but the valley is still fed on by sheep in the bushes."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A8" text="Vidal is located on a mountain mouth in the north. Red streaks on the soil and rocks indicate that the area is rich in iron ore and that the villagers are mining it."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A9" text="Svalen is located under a small wooded hill. Local villagers cut down oak, yew and beech forests. For hundreds of years, the villagers have cared for the trees to ensure that the timber is always sufficient to be harvested and sold."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A10" text="Orva sits on a rocky ridge. If there were no iron ore in the mountains in this bitter cold land, it is estimated that no one would have settled here."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A11" text="Isol is located deep in the forests of the northeast. This remote place has long been a refuge for people fleeing oppression, debt, and feuds from across the North, and the local accent is heavily influenced by the forest peoples."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A12" text="Ubudyasta is a fishing village. Villagers walk down the cliffs at dawn to catch salmon jumping over the rocks, as well as herring and cod in the sea."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A12" text="Norland sits on the steep slopes of the mountain range, overlooking the river that flows inland. Villagers harvest tall trees and sell them to coastal cities."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A13" text="Hyluna is located on the western side of the sea. Villagers head out to sea to the west to catch cod, salmon and other cold-water fish that venture into the bay."/>
+    <string id="Settlements.Settlement.text.castle_village_Nordvisa_A13" text="Xavier is located in the foothills of the snow-capped mountains in the northwest. Villagers enter the shallow water from the west to catch crabs, lobsters and river bass."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A14" text="Swell is nestled in a cold, gloomy valley at the foot of the mountain. The region's hardy cattle dig through thick layers of snow in the winter to find grass to eat and survive until spring."/>
+    <string id="Settlements.Settlement.text.village_Nordvisa_A15" text="Graeme is located on a hill with a distinct climate. Sheep farming is a livelihood in the region, as is sheep stealing."/>
+  </strings>
+</base>

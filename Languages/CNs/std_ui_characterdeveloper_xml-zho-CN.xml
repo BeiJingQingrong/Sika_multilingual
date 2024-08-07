@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+   <tag language="简体中文"/>
+ </tags>
+ <strings>
+      <!-- CharacterDeveloper -->
+      <string id="CharacterDeveloper_0001" text="属性"/>
+      <string id="CharacterDeveloper_0002" text="力量"/>
+      <string id="CharacterDeveloper_0003" text="敏捷"/>
+      <string id="CharacterDeveloper_0004" text="耐力"/>
+      <string id="CharacterDeveloper_0005" text="魅力"/>
+      <string id="CharacterDeveloper_0006" text="智慧"/>
+      <string id="CharacterDeveloper_0007" text="武器掌握"/>
+      <string id="CharacterDeveloper_0008" text="运动"/>
+      <string id="CharacterDeveloper_0009" text="领袖"/>
+      <string id="CharacterDeveloper_0010" text="未入门"/>
+      <string id="CharacterDeveloper_0011" text="入门"/>
+      <string id="CharacterDeveloper_0012" text="新手"/>
+      <string id="CharacterDeveloper_0013" text="熟练"/>
+      <string id="CharacterDeveloper_0014" text="掌握"/>
+      <string id="CharacterDeveloper_0015" text="老兵"/>
+      <string id="CharacterDeveloper_0016" text="精通"/>
+      <string id="CharacterDeveloper_0017" text="专家"/>
+      <string id="CharacterDeveloper_0018" text="大师"/>
+      <string id="CharacterDeveloper_0019" text="宗师"/>
+      <string id="CharacterDeveloper_0020" text="熟练度上限"/>
+      <string id="CharacterDeveloper_0021" text="基础"/>
+      <string id="CharacterDeveloper_0022" text="武器伤害："/>
+      <string id="CharacterDeveloper_0023" text="武器速度："/>
+      <string id="CharacterDeveloper_0024" text="弓箭伤害："/>
+      <string id="CharacterDeveloper_0025" text="弓箭精度："/>
+      <string id="CharacterDeveloper_0026" text="瞄准速度："/>
+      <string id="CharacterDeveloper_0027" text="弩精度："/>
+      <string id="CharacterDeveloper_0028" text="装填速度："/>
+      <string id="CharacterDeveloper_0029" text="投掷武器速度："/>
+      <string id="CharacterDeveloper_0030" text="投掷武器伤害："/>
+      <string id="CharacterDeveloper_0031" text="投掷精度："/>
+      <string id="CharacterDeveloper_0032" text="跑动速度："/>
+      <string id="CharacterDeveloper_0033" text="重量惩罚减免："/>
+      <string id="CharacterDeveloper_0034" text="击退抗性："/>
+      <string id="CharacterDeveloper_0035" text="击倒抗性："/>
+      <string id="CharacterDeveloper_0036" text="骑乘最大难度："/>
+      <string id="CharacterDeveloper_0037" text="马匹速度："/>
+      <string id="CharacterDeveloper_0038" text="马匹操纵："/>
+      <string id="CharacterDeveloper_0039" text="马匹耐力消耗："/>
+      <string id="CharacterDeveloper_0040" text="武器伤害惩罚："/>
+      <string id="CharacterDeveloper_0041" text="武器速度&装填惩罚："/>
+      <string id="CharacterDeveloper_0042" text="落马抗性："/>
+      <string id="CharacterDeveloper_0043" text="部队上限："/>
+      <string id="CharacterDeveloper_0044" text="影响血量、近战伤害、挥砍速度、投掷武器速度。"/>
+      <string id="CharacterDeveloper_0045" text="影响奔跑速度、戳刺速度、装填速度、准星稳定时长。"/>
+      <string id="CharacterDeveloper_0046" text="部分影响血量，影响背包负重、重量惩罚减免、打退抗性、击倒抗性。"/>
+      <string id="CharacterDeveloper_0047" text="影响商店物品价格、物品回收价格。"/>
+      <string id="CharacterDeveloper_0048" text="影响经验获取效率。"/>
+      <string id="CharacterDeveloper_0049" text="可用武器专精点:你会在2级获得第一个可用的武器专精点，之后每提升3级再额外获得一点"/>
+      <string id="CharacterDeveloper_0050" text="可用运动专精点:你会在3级获得第一个可用的运动专精点，之后每提升5级再额外获得一点"/>
+      <string id="CharacterDeveloper_0051" text="可用领袖专精点:你会在4级获得第一个可用的领袖专精点，之后每提升5级再额外获得一点"/>
+      <string id="CharacterDeveloper_0052" text="可用属性点:每升1级,获得一点可用属性点。"/>
+      <string id="CharacterDeveloper_0053" text="可用属性点:此角色每5级可获得1点自由属性点。"/>
+      <string id="CharacterDeveloper_0054" text="角色血量 "/>
+      <string id="CharacterDeveloper_0055" text="近战伤害 "/>
+      <string id="CharacterDeveloper_0056" text="投掷武器速度 "/>
+      <string id="CharacterDeveloper_0057" text="挥砍速度 "/>
+      <string id="CharacterDeveloper_0058" text="奔跑速度 "/>
+      <string id="CharacterDeveloper_0059" text="戳刺速度 "/>
+      <string id="CharacterDeveloper_0060" text="装填速度 "/>
+      <string id="CharacterDeveloper_0061" text="准星稳定时长 "/>
+      <string id="CharacterDeveloper_0062" text="背包负重 "/>
+      <string id="CharacterDeveloper_0063" text="重量惩罚减免 "/>
+      <string id="CharacterDeveloper_0064" text="打击抗性（阈值） "/>
+      <string id="CharacterDeveloper_0065" text="商店价格 "/>
+      <string id="CharacterDeveloper_0066" text="回收价格 "/>
+      <string id="CharacterDeveloper_0067" text="经验获取效率 "/>
+      <string id="CharacterDeveloper_0068" text="最大生命值 "/>
+      <string id="CharacterDeveloper_0069" text="生命值 "/>
+      <string id="CharacterDeveloper_0070" text="花费1点专精点，当前可用{num}点"/>
+      <string id="CharacterDeveloper_0071" text="无可用专精点"/>
+ </strings>
+</base>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="简体中文"/>
+ </tags>
+ <strings>
+  <string id="bandit610001" text="流放犯罪者" />
+  <string id="bandit610002" text="拦路匪徒" />
+  <string id="bandit610003" text="剪径强盗" />
+  <string id="bandit610004" text="亡命徒" />
+  <string id="bandit610005" text="亡命徒首领" />
+  <string id="bandit610006" text="失地贫民" />
+  <string id="bandit610007" text="逃兵射手" />
+  <string id="bandit610008" text="逃兵" />
+  <string id="bandit610009" text="逃兵头目" />
+  <string id="bandit610010" text="捕奴者打手" />
+  <string id="bandit610011" text="捕奴者射手" />
+  <string id="bandit610012" text="捕奴者头目" />
+  <string id="bandit610013" text="奴隶贩子" />
+  <string id="bandit610014" text="叛乱势力爪牙" />
+  <string id="bandit610015" text="叛乱势力骨干" />
+  <string id="bandit610016" text="叛乱势力精锐" />
+  <string id="bandit610017" text="蒙受感召者" />
+  <string id="bandit610018" text="劫匪" />
+  <string id="bandit610019" text="绿林宵小" />
+  <string id="bandit610020" text="绿林匪徒" />
+  <string id="bandit610021" text="绿林强盗" />
+  <string id="bandit610022" text="绿林强盗头目" />
+  <string id="bandit610023" text="雇佣兵无赖" />
+  <string id="bandit610024" text="雇佣兵暴徒" />
+  <string id="bandit610025" text="雇佣兵恶棍" />
+  <string id="bandit610026" text="雇佣兵恶棍头目" />
+  <string id="bandit610027" text="北地游荡民" />
+  <string id="bandit610028" text="北地掠袭者" />
+  <string id="bandit610029" text="北地掠袭者勇士" />
+  <string id="bandit610030" text="北地掠袭者首领" />
+  <string id="bandit610031" text="追随者打手" />
+  <string id="bandit610032" text="追随者扈从" />
+  <string id="bandit610033" text="追随者亲信" />
+  <string id="bandit610034" text="犯罪骑士" />
+ </strings>
+</base>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+  <!-- 时装 -->
+    <string id="headarmor0001" text="Eastern Swordman Hat"/>
+    <string id="headarmor0002" text="Ranger Hood"/>
+    <string id="headarmor0003" text="Embroidered Crown"/>
+    <string id="headarmor0004" text="Yu Lin Helmet With Collar"/>
+    <string id="cape0001" text="Eastern Swordman Cape"/>
+    <string id="cape0002" text="Ranger Cloak"/>
+    <string id="cape0003" text="Embroidered Cape"/>
+    <string id="cape0004" text="Yu Lin Lamellar Armour Cape"/>
+    <string id="bodyarmor0001" text="Eastern Swordman Coat"/>
+    <string id="bodyarmor0002" text="Ranger Coat"/>
+    <string id="bodyarmor0003" text="Embroidered Costume"/>
+    <string id="bodyarmor0004" text="Yu Lin Lamellar Armour"/>
+    <string id="armarmor0001" text="Eastern Swordman Bracer"/>
+    <string id="armarmor0002" text="Ranger Bracer"/>
+    <string id="armarmor0003" text="Embroidered Bracer"/>
+    <string id="armarmor0004" text="Yu Lin Lamellar Armour Barcer"/>
+    <string id="legarmor0001" text="Eastern Swordman Cuish"/>
+    <string id="legarmor0002" text="Ranger Cuish"/>
+    <string id="legarmor0003" text="Embroidered Shoe"/>
+    <string id="legarmor0004" text="Yu Lin Lamellar Armour Boots"/>
+  <!-- 武器 -->
+    <string id="jcOJqWGA" text="Fine Steel Spear"/>
+    <string id="j4XraSN6" text="Light Lance"/>
+    <string id="mWxNSjSP" text="Thin Fine Steel Hewing Spear"/>
+    <string id="N28bDEhh" text="Fine Steel Hewing Spear"/>
+    <string id="HVcwvRMF" text="Reinforced Highland Spear"/>
+  <!-- 马和马具 -->
+    <string id="horse0002" text="Breath of Molten Fire"/>
+    <string id="horse0001" text="Erin Well-bred Horse"/>
+    <string id="horseharness0002" text="Purgatory Harness"/>
+    <string id="horseharness0001" text="Elite Knight Plate Horse Armor"/>
+  <!-- 士兵装备 -->
+    <string id="SkiOL_headarmor0001" text="North Steel Cap With Orbital Helmet"/>
+    <string id="SkiOL_bodyarmor0001" text="North Leather Over Mail"/>
+    <string id="SkiOL_legarmor0001" text="North Snow Boots"/>
+    <string id="SkiOL_headarmor0002" text="North Orbital Helmet"/>
+    <string id="SkiOL_bodyarmor0002" text="North Tied Leather Over Mail"/>
+    <string id="SkiOL_headarmor0003" text="North Orbital Helmet With Beak"/>
+    <string id="SkiOL_cape0001" text="North ground feathered iron shoulder protector"/>
+    <string id="SkiOL_bodyarmor0003" text="North feathered leather armour lined over mail"/>
+    <string id="SkiOL_handarmor0001" text="North leather strap wrist brace"/>
+    <string id="SkiOL_legarmor0002" text="North reinforced snow boots with cable ties"/>
+    <string id="SkiOL_headarmor0004" text="North Horn Helmet"/>
+    <string id="SkiOL_bodyarmor0004" text="North Barbarians Wrap Waists"/>
+    <string id="SkiOL_headarmor0005" text="Nordvisa Horn Orbital Helmet"/>
+    <string id="SkiOL_bodyarmor0005" text="Nordvisa Warrior Armor"/>
+    <string id="SkiOL_handarmor0002" text="Nordvisa Warrior Wrist Brace"/>
+    <string id="SkiOL_cape0002" text="Nordvisa Warrior Shoulder Pads"/>
+    <string id="SkiOL_legarmor0003" text="Nordvisa Warrior Lace-up Boots"/>
+    <string id="SkiOL_headarmor0006" text="Nordvisa Berserker Orbital Helmet"/>
+    <string id="SkiOL_bodyarmor0006" text="Nordvisa Berserker Armor"/>
+    <string id="SkiOL_handarmor0003" text="Nordvisa Berserker Wrist Brace"/>
+    <string id="SkiOL_cape0003" text="Nordvisa Berserker Vest"/>
+    <string id="SkiOL_legarmor0004" text="Nordvisa Berserker Jambeau"/>
+
+  <!-- 原版装备改 -->
+    <string id="shield0001" text="Enhanced Pavise Shield"/>
+    <string id="polearm0001" text="Enchanced Noble Cavalry Lance"/>
+    <string id="polearm0002" text="Mercenary spears"/>
+    <string id="SkiOL_bolts0001" text="Stacked Bolts"/>
+    <string id="short_yanyuedao" text="Glaive"/>
+    <string id="throwing_axe_001" text="North Raider Throwing Axe"/>
+    <string id="throwing_axe_002" text="Nordvisa Warrior Throwing Axe"/>
+    <string id="billhook001" text="Billhook"/>
+    </strings>
+</base>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="woodbase00" text="Wood Block" />
+    <string id="woodbase01" text="Cut Wood" />
+    <string id="minebase00" text="Crude Iron Ore" />
+    <string id="minebase01" text="Pig Iron" />
+    <string id="woodbase02" text="Processed Wood" />
+    <string id="woodbase03" text="Logs" />
+    <string id="woodbase04" text="Hardwood" />
+    <string id="woodbase05" text="Cut Hardwood Lumber" />
+    <string id="woodbase06" text="Processed Hardwood Lumber" />
+    <string id="woodbase07" text="Taxus Log" />
+    <string id="woodbase08" text="Cut Taxus Wood" />
+    <string id="woodbase09" text="Processed Taxus Wood" />
+    <string id="woodbase10" text="Hardwood Block" />
+    <string id="woodbase11" text="Yew Wood Block" />
+    <string id="material00" text="Charcoal" />
+    <string id="material01" text="High Quality Charcoal" />
+    <string id="material02" text="Coal" />
+    <string id="material03" text="High Quality Coal" />
+    <string id="minebase02" text="Pig Iron Ingot" />
+    <string id="minebase03" text="High Quality Iron Ingot" />
+    <string id="minebase04" text="Steel Ingot" />
+    <string id="minebase05" text="High Quality Steel Ingot" />
+    <string id="minebase06" text="Refined Steel Ingot" />
+    <string id="minebase07" text="Copper Ore" />
+    <string id="minebase08" text="Crude Copper Ingot" />
+    <string id="minebase09" text="High Quality Copper Ingot" />
+    <string id="minebase10" text="Refined Copper Ingot" />
+    <string id="fur00" text="Animal Hides" />
+    <string id="fur01" text="Tanned Fur" />
+    <string id="fur02" text="Animal Skin" />
+    <string id="leather00" text="Raw Leather" />
+    <string id="leather01" text="Tanned Leather" />
+    <string id="leather02" text="Multiple Tanned Leather" />
+    <string id="leather03" text="High Quality Multiple Tanned Leather" />
+    <string id="fur03" text="Durable Animal Hide" />
+    <string id="material04" text="Animal Sinew" />
+    <string id="material05" text="Tough Animal Sinew" />
+    <string id="cloth00" text="Flax" />
+    <string id="cloth01" text="Thread" />
+    <string id="cloth02" text="Rope" />
+    <string id="cloth03" text="Linen" />
+    <string id="cloth04" text="Dyed Linen" />
+    <string id="cloth05" text="Embroidered Linen" />
+    <string id="cloth06" text="Fine Embroidered Linen" />
+    <string id="cloth07" text="Chainmail Lining" />
+    <string id="cloth08" text="Lamellar Lining" />
+    <string id="cloth09" text="Cloth Armor Lining" />
+    <string id="cloth10" text="Padded Armor Lining" />
+    <string id="cloth11" text="Leather Lining" />
+    <string id="cloth12" text="Shoe Lining" />
+    <string id="material06" text="Metal Wire" />
+    <string id="material07" text="Saltpeter" />
+    <string id="material08" text="Tannin" />
+    <string id="material09" text="Dyestuff" />
+    <string id="material10" text="Metal Wire" />
+    <string id="advmaterial00" text="Griffin Claw-patterned Fir Logs" />
+    <string id="advmaterial01" text="Cut Griffin Claw-patterned Fir Wood" />
+    <string id="advmaterial02" text="Processed Griffin Claw-patterned Fir Wood" />
+    <string id="advmaterial03" text="Dragoncore Golden Silkwood Logs" />
+    <string id="advmaterial04" text="Cut Dragoncore Golden Silkwood Logs" />
+    <string id="advmaterial05" text="Processed Dragoncore Golden Silkwood Logs" />
+    <string id="advmaterial06" text="Mithril Ore" />
+    <string id="advmaterial07" text="Mithril Ingot" />
+    <string id="advmaterial08" text="High Quality Mithril Ingot" />
+    <string id="advmaterial09" text="Refined Mithril Ingot" />
+    <string id="advmaterial10" text="Adamantite Ore" />
+    <string id="advmaterial11" text="Adamantite Ingot" />
+    <string id="advmaterial12" text="High Quality Adamantite Ingot" />
+    <string id="advmaterial13" text="Refined Adamantite Ingot" />
+    <string id="advmaterial14" text="Fine Animal Hides" />
+    <string id="advmaterial15" text="Raw Fine Leather" />
+    <string id="advmaterial16" text="Tanned Fine Leather" />
+    <string id="lootmaterial00" text="Deer Skin" />
+    <string id="lootmaterial01" text="Wolf Pelt" />
+    <string id="lootmaterial02" text="Bear Pelt" />
+  </strings>
+</base>

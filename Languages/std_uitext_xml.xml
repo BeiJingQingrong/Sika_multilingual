@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="Erin" text="Erin"/>
+    <string id="Nordvisa" text="Nordvisa"/>
+    <string id="Renford" text="Renford"/>
+
+   <string id="Infantry" text="Infantry"/>
+   <string id="Ranged" text="Ranged"/>
+   <string id="HorseArcher" text="HorseArcher"/>
+   <string id="Cavalry" text="Cavalry"/>
+
+   <string id="Athletics" text="Athletics"/>
+   <string id="Riding" text="Riding"/>
+   <string id="Bow" text="Bow"/>
+   <string id="Crossbow" text="Crossbow"/>
+   <string id="Throwing" text="Throwing"/>
+   <string id="OneHanded" text="OneHanded"/>
+   <string id="TwoHanded" text="TwoHanded"/>
+   <string id="Polearm" text="Polearm"/>
+
+
+    <string id="Factionfavor" text="Faction Reputation:"/>
+    <string id="Merit" text="Merit:"/>
+    <string id="Merit1" text="Merit"/>
+    <string id="General" text="General"/>
+   <string id="Elite" text="Elite"/>
+   <string id="Special" text="Special"/>
+   <string id="Hatred" text="Hatred"/>
+   <string id="Hostile" text="Hostile"/>
+   <string id="Aloof" text="Aloof"/>
+   <string id="Neutral" text="Neutral"/>
+   <string id="Friendly" text="Friendly"/>
+   <string id="Intimate" text="Intimate"/>
+   <string id="Trust" text="Trust"/>
+   <string id="Respect" text="Respect"/>
+   <string id="Admiration" text="Admiration"/>
+   <string id="FlagText" text="Flag"/>
+   <string id="FavorText" text="Favorability"/>
+   <string id="FactionText" text="Faction Name"/>
+   <string id="LockText" text="Locked"/>
+   <string id="TroopRankText" text="Troop Rank:"/>
+   <string id="RankText" text="Rank"/>
+   <string id="MeritHintText" text="Purpose: Can be used at the Court Steward's office to exchange items, unlock units, exchange for or upgrade special units, etc."/>
+   <string id="NeedExp" text="Need Experience"/>
+   <string id="NeedMoney" text="Need Dinar"/>
+   <string id="UnlockCondition" text="Unlock condition"/>
+   <string id="TroopNolock" text="Low-tier units not unlocked"/>
+   <string id="NoMerit" text="Insufficient merit"/>
+   <string id="Canlock" text="Unlockable"/>
+   <string id="FactionBig" text="Faction Reputation≥"/>
+   <string id="NotroopText" text="Currently no troops available, please stay tuned."/>
+   <string id="GroupText" text="Group"/>
+   <string id="OnlineText" text="Game Online"/>
+   <string id="SikaOnlineText" text="SikaOnline Sever"/>
+
+   <!-- 伙伴UI -->
+    <string id="Renford_0_01" text="Durga" />
+    <string id="Renford_0_02" text="Asha" />
+    <string id="Renford_0_03" text="Aisha" />
+    <string id="Renford_0_04" text="Fatima" />
+    <string id="Renford_0_05" text="Amira" />
+    <string id="Renford_0_06" text="Grace" />
+    <string id="Renford_0_07" text="Isa" />
+    <string id="Renford_0_08" text="Bhavana" />
+    <string id="Renford_0_09" text="Ilsha" />
+    <string id="Renford_0_10" text="Manuel" />
+    <string id="Renford_0_11" text="Amye" />
+    <string id="Renford_0_12" text="Varna" />
+    <string id="Renford_0_13" text="Annali" />
+    <string id="Renford_0_14" text="Kavia" />
+    <string id="Renford_0_15" text="Anania" />
+    <string id="Erin_0_01" text="Mellihull" />
+    <string id="Erin_0_02" text="Heliana" />
+    <string id="Erin_0_03" text="Aldoflae" />
+    <string id="Erin_0_04" text="Alicia" />
+    <string id="Erin_0_05" text="Viandra" />
+    <string id="Erin_0_06" text="Kaliana" />
+    <string id="Erin_0_07" text="Lori Elle" />
+    <string id="Erin_0_08" text="Selfflin" />
+    <string id="Erin_0_09" text="Frianna" />
+    <string id="Erin_0_10" text="Marcella" />
+    <string id="Erin_0_11" text="Victoria" />
+    <string id="Erin_0_12" text="Sylvia" />
+    <string id="Erin_0_13" text="Diampella" />
+    <string id="Erin_0_14" text="Norvia" />
+    <string id="Erin_0_15" text="Linda Reina" />
+    <string id="Viking_0_01" text="Astrid" />
+    <string id="Viking_0_02" text="Ingrid" />
+    <string id="Viking_0_03" text="Helga" />
+    <string id="Viking_0_04" text="Liv" />
+    <string id="Viking_0_05" text="Carly" />
+    <string id="Viking_0_06" text="Keesha" />
+    <string id="Viking_0_07" text="Shivana" />
+    <string id="Viking_0_08" text="Swassy" />
+    <string id="Viking_0_09" text="Milanka" />
+    <string id="Viking_0_10" text="Attana" />
+    <string id="Viking_0_11" text="Schwani" />
+    <string id="Viking_0_12" text="Brill" />
+    <string id="Viking_0_13" text="Asha Mi" />
+    <string id="Viking_0_14" text="Garkh" />
+    <string id="Viking_0_15" text="La Socca" />
+    <string id="Renford_1_01" text="Sunil" />
+    <string id="Renford_1_02" text="Ami" />
+    <string id="Renford_1_03" text="Shahrukh" />
+    <string id="Renford_1_04" text="Pak Qiang" />
+    <string id="Renford_1_05" text="Kumar" />
+    <string id="Renford_1_06" text="Aksey" />
+    <string id="Renford_1_07" text="Salman" />
+    <string id="Renford_1_08" text="Rothhan" />
+    <string id="Renford_1_09" text="Singh" />
+    <string id="Renford_1_10" text="Gain" />
+    <string id="Renford_1_11" text="Sarthe" />
+    <string id="Renford_1_12" text="Cook Khan" />
+    <string id="Renford_1_13" text="Amante" />
+    <string id="Renford_1_14" text="Raj" />
+    <string id="Renford_1_15" text="Aksu" />
+    <string id="Erin_1_01" text="Louis" />
+    <string id="Erin_1_02" text="Pent" />
+    <string id="Erin_1_03" text="Oaksey" />
+    <string id="Erin_1_04" text="Oliver" />
+    <string id="Erin_1_05" text="Herman" />
+    <string id="Erin_1_06" text="Andrew" />
+    <string id="Erin_1_07" text="matthew" />
+    <string id="Erin_1_08" text="Dixon" />
+    <string id="Erin_1_09" text="Harissan" />
+    <string id="Erin_1_10" text="Jeffrey" />
+    <string id="Erin_1_11" text="Lucas" />
+    <string id="Erin_1_12" text="Ilson" />
+    <string id="Erin_1_13" text="Ellison" />
+    <string id="Erin_1_14" text="Dreon" />
+    <string id="Erin_1_15" text="Cassante" />
+    <string id="Viking_1_01" text="Olaf" />
+    <string id="Viking_1_02" text="Bjorn" />
+    <string id="Viking_1_03" text="Ivar" />
+    <string id="Viking_1_04" text="Ulf" />
+    <string id="Viking_1_05" text="Rolf" />
+    <string id="Viking_1_06" text="Yorick" />
+    <string id="Viking_1_07" text="Owens" />
+    <string id="Viking_1_08" text="Varlang" />
+    <string id="Viking_1_09" text="Longwald" />
+    <string id="Viking_1_10" text="Vidal" />
+    <string id="Viking_1_11" text="Ulkeley" />
+    <string id="Viking_1_12" text="Oldern" />
+    <string id="Viking_1_13" text="Fambia" />
+    <string id="Viking_1_14" text="Nadal" />
+    <string id="Viking_1_15" text="Rovor" />
+
+
+    <string id="title_0001" text="Skillful Hands" />
+<string id="title_0002" text="The Lazy" />
+<string id="title_0003" text="The Savage" />
+<string id="title_0004" text="Veteran" />
+<string id="title_0005" text="Cooper Worker" />
+<string id="title_0006" text="Expert" />
+<string id="title_0007" text="Iron Wall" />
+<string id="title_0008" text="Green Grove Han" />
+<string id="title_0009" text="Robust" />
+<string id="title_0010" text="The Coin" />
+<string id="title_0011" text="Bull" />
+<string id="title_0012" text="Bison" />
+<string id="title_0013" text="Saker" />
+<string id="title_0014" text="Peregrine Falcon" />
+<string id="title_0015" text="One Eyed" />
+<string id="title_0016" text="Gold Teeth" />
+<string id="title_0017" text="Sharp eyes" />
+<string id="title_0018" text="Blond" />
+<string id="title_0019" text="Redheads" />
+<string id="title_0020" text="Squint" />
+<string id="title_0021" text="Burst teeth" />
+<string id="title_0022" text="Blindness" />
+<string id="title_0023" text="Respectable" />
+<string id="title_0024" text="Industrious" />
+<string id="title_0025" text="Rightingale" />
+<string id="title_0026" text="Dexterous" />
+<string id="title_0027" text="Herald" />
+<string id="title_0028" text="Swift Foot" />
+<string id="title_0029" text="Vajra" />
+<string id="title_0030" text="Sot" />
+<string id="title_0031" text="Wandering Warbler" />
+<string id="title_0032" text="Scarface" />
+<string id="title_0033" text="Thorns" />
+<string id="title_0034" text="Lame" />
+<string id="title_0035" text="Slender" />
+<string id="title_0036" text="Brunette" />
+<string id="title_0037" text="Reverent" />
+<string id="title_0038" text="Madness" />
+<string id="title_0039" text="Madman" />
+<string id="title_0040" text="Watchfulness" />
+<string id="title_0041" text="Blackhand" />
+<string id="title_0042" text="Dexterity" />
+<string id="title_0043" text="Iron stomach" />
+<string id="title_0044" text="Grim" />
+<string id="title_0045" text="Black Dog" />
+<string id="title_0046" text="Hammer" />
+<string id="title_0047" text="Iron Pickaxe" />
+<string id="title_0048" text="Rotten Sores" />
+<string id="title_0049" text="Mariner" />
+<string id="title_0050" text="Bloody Hands" />
+<string id="title_0051" text="Benevolent" />
+<string id="title_0052" text="Female Leopard" />
+<string id="title_0053" text="Warrior" />
+<string id="title_0054" text="Orphan" />
+<string id="title_0055" text="Barbarians" />
+<string id="title_0056" text="Valiant" />
+<string id="title_0057" text="Poisonous" />
+<string id="title_0058" text="Broken mouth" />
+<string id="title_0059" text="Death Knell" />
+<string id="title_0060" text="Fine Willow" />
+<string id="title_0061" text="Ruthless" />
+<string id="title_0062" text="Atrocious" />
+<string id="title_0063" text="Fighter" />
+
+
+    <!-- ui部分partner -->
+<string id="partner_ui_level" text="Character level:" />
+<string id="partner_ui_birth" text="Birth background:" />
+<string id="partner_ui_culture" text="Role culture:" />
+<string id="partner_ui_favor" text="Current favorability:" />
+<string id="partner_ui_character" text="Character:" />
+<string id="partner_ui_traits" text="Traits:" />
+<string id="partner_ui_skill" text="Skill mastery:" />
+<string id="partner_ui_loyal" text="Loyal:" />
+<string id="partner_ui_effect" text="Effect:" />
+<string id="DoneText" text="Done" />
+<string id="partner_ui_0001" text="Current Affection:" />
+<string id="partner_ui_0002" text="Specialty" />
+<string id="partner_ui_0003" text="Skill" />
+<string id="partner_ui_0004" text="This character lacks outstanding personality traits and remains neutral in attitude." />
+<string id="partner_ui_0005" text="Affection change {num1}, required salary {num2}" />
+
+
+
+     <!-- 家族UI -->
+      <string id="Family_ChangeFlag1" text="Click to edit the flag!"/>
+      <string id="Family_ChangeFlag2" text="Only the leader can modify the flag!"/>
+      <string id="Family_Influence" text="Influence "/>
+      <string id="Family_NextLevel" text="Next level:"/>
+      <string id="Family_Daily" text="Current consumption:"/>
+      <string id="Family_Get" text="Get it today:"/>
+      <string id="Family_Member" text="Members"/>
+      <string id="Family_Land" text="Lands"/>
+      <string id="Family_Diplomacy" text="Diplomacy"/>
+      <string id="Family_Dissolution" text="Dissolution of family"/>
+      <string id="Family_Leave" text="Leave the family"/>
+      <string id="Family_Pop_famliy" text="You're not in any family yet"/>
+      <string id="Family_Pop_create" text="Create Family"/>
+      <string id="Family_Pop_Search" text="Search Family"/>
+      <string id="Family_Pop_No" text="No search results"/>
+      <string id="Family_Pop_Apply" text="Apply to join"/>
+      <string id="Family_Pop_Close" text="Close"/>
+      <string id="Family_Pop_ClickCreate" text="Click Create Family"/>
+      <string id="Family_Pop_CreateTip" text="Requirement:Player level 5"/>
+      <string id="Family_Pop_AllApply" text="Applied"/>
+      <string id="Family_Pop_Tip" text="Since you have just quit the family, you cannot rejoin for 24 hours."/>
+      <string id="Family_PopCreate_city" text="City"/>
+      <string id="Family_PopCreate_consunme" text="Have Dinar:"/>
+      <string id="Family_PopCreate_create" text="Create Your Family"/>
+      <string id="Family_PopCreate_chooseflag" text="Choose Flag"/>
+      <string id="Family_PopCreate_rule" text="Rule:Family names must not contain prohibited words. Cannot contain special symbols."/>
+      <string id="Family_PopCreate_rule1" text="No more than 6 Chinese characters, no more than 12 English characters."/>
+      <string id="Family_PopCreate_choosecity" text="Select your family's city"/>
+      <string id="Family_PopCreate_NotDiner" text="Your dinar is insufficient,can't create."/>
+      <string id="Family_PopCreate_previous" text="Previous step"/>
+      <string id="Family_PopCreate_createtext" text="Create"/>
+      <string id="Family_PopCreate_tipcity" text="You have not chosen your family's city!"/>
+      <string id="Family_PopCreate_tip1" text="Naming does not meet the specification!"/>
+      <string id="Family_PopCreate_tip2" text="Contains sensitive words, please change!"/>
+      <string id="Family_PopCreate_tip3" text="Input null!"/>
+      <string id="Family_PopCreate_tip4" text="The current name is too long!"/>
+      <string id="Family_PopCreate_name" text="Family Naming"/>
+      <string id="Family_PopCreate_namecreate" text="The family name is empty and cannot be created."/>
+      <string id="yes" text="Yes"/>
+      <string id="no" text="No"/>
+      <string id="Confirm" text="Confirm"/>
+      <string id="Cancel" text="Cancel"/>
+      <string id="Family_Open" text="Turning on bonus costs influence, are you sure to turn it on?"/>
+      <string id="Family_costinfluence" text="Cost Influence"/>
+      <string id="Family_continetime" text="Time of duration:"/>
+      <string id="Hour" text="hour"/>
+      <string id="Family_quitsure" text="Are you sure you want leave the family?"/>
+      <string id="Family_quitsuretip" text="After leaving the family, you are not allowed to rejoin the family for 24 hours."/>
+      <string id="Family_dissolve" text="Are you sure you want to dissolve the family?"/>
+      <string id="Family_dissolveMember" text="All members will be removed after dissolution."/>
+      <string id="Family_con" text="Are you sure you want to donate?"/>
+      <string id="Family_EveryAll" text="Daily Limit"/>
+      <string id="Family_changeName" text="Change family name"/>
+      <string id="Family_levelup" text="Are you sure you want a family upgrade?"/>
+      <string id="Family_poolinfluence" text="The current family pool of influence"/>
+      <string id="Family_CostfamilyInfluence" text="The current family pool of influence"/>
+      <string id="Family_0001" text="Received application information"/>
+      <string id="Family_0002" text="Fanily Member"/>
+      <string id="Family_0003" text="There is no application message at this time"/>
+      <string id="Family_0004" text="Character Level:"/>
+      <string id="Family_0005" text="Agree"/>
+      <string id="Family_0006" text="Ignore"/>
+      <string id="Family_0007" text="Family full"/>
+      <string id="Family_0008" text="Family members are full, cannot be added!"/>
+      <string id="Family_0009" text="Online"/>
+      <string id="Family_0010" text="Offline"/>
+      <string id="Family_0011" text="Appoint"/>
+      <string id="Family_0012" text="Kick out"/>
+      
+      <string id="Family_0013" text="Leader"/>
+      <string id="Family_0014" text="Deputy Leader"/>
+      <string id="Family_0015" text="Senior"/>
+      <string id="Family_0016" text="Backbone"/>
+      <string id="Family_0017" text="Member"/>
+
+      <string id="Family_0018" text="Head"/>
+      <string id="Family_0019" text="Name"/>
+      <string id="Family_0020" text="Position"/>
+      <string id="Family_0021" text="Donation"/>
+      <string id="Family_0022" text="State"/>
+      <string id="Family_0023" text="Offer bonuses"/>
+      <string id="Family_0024" text="Unlock bonus"/>
+      <string id="Family_0025" text="Donation"/>
+      <string id="Family_0026" text="Family Announcement"/>
+      <string id="Family_0027" text="Family Log"/>
+      <string id="Family_0028" text="Apply"/>
+      <string id="Family_0029" text="Setting"/>
+      <string id="Family_0030" text="Upgrade"/>
+      <string id="Family_0031" text="Bonus is not enabled"/>
+      <string id="Family_0032" text="Family Settings"/>
+      <string id="Family_0033" text="Modified family announcement"/>
+      <string id="Family_0034" text="Apply"/>
+      <string id="Family_0035" text="You want to change the player's position:"/>
+
+      <string id="Family_0036" text="Online {WEEK} weeks ago"/>
+      <string id="Family_0037" text="Online {DAY} days ago"/>
+      <string id="Family_0038" text="Just online"/>
+      <string id="Family_0039" text="Online {HOUR} hours ago"/>
+      <string id="Family_0040" text="Family"/>
+      <string id="Family_0041" text="Influence Donation"/>
+      
+      <string id="Family_0042" text="Your influence is 0, can't donate!"/>
+      <string id="Family_0043" text="Today's influence donation has reached the limit, please donate tomorrow!"/>
+      <string id="Family_0044" text="Flag creation failed due to an error."/>
+      <string id="Family_0045" text="You cannot create a family without the dominion flag"/>
+
+      <string id="Family_0046" text="Click Change Family Name"/>
+      <string id="Family_0047" text="Only the leader can change the family name"/>
+      <string id="Family_0048" text="Partner Max"/>
+      <string id="Family_0049" text="Party Max"/>
+      <string id="Family_0050" text="Character Experience"/>
+      <string id="Family_0051" text="Partner Experience"/>
+      <string id="Family_0052" text="Solider Experience"/>
+      <string id="Family_0053" text="Dissolve Family"/>
+      <string id="Family_0054" text="Leave Family"/>
+      <string id="Family_0055" text="Unable to change flags"/>
+      <string id="Family_0056" text="Your family influence is less than 500, you cannot change the flag."/>
+      <string id="Family_0057" text="Please select your family city"/>
+      <string id="Family_0058" text="Your family city:"/>
+      <string id="Family_0059" text="Coming soon"/>
+      <string id="Family_0060" text="Manage"/>
+      <string id="Family_0061" text="Rank"/>
+      <string id="Family_0062" text="Name duplication!"/>
+      <!-- Conversation-UI -->
+      <string id="Con_and" text="and"/>
+      <string id="Con_cost" text="Cost"/>
+      <string id="Con_continue" text="Click anywhere to continue"/>
+
+
+      <!-- Chat-UI -->
+      <string id="Chat_Tip" text="Press Enter to hide it"/>
+      <string id="Chat_type1" text="Servers"/>
+      <string id="Chat_type2" text="Trade"/>
+      <string id="Chat_type3" text="Private"/>
+      <string id="Chat_type4" text="Fight"/>
+      <string id="Chat_type5" text="System"/>
+      <string id="Chat_type6" text="Team"/>
+      <string id="Chat_type7" text="Near"/>
+      <string id="Chat_tip1" text="Channel is blocked, please open it and try again."/>
+      <string id="Chat_tip3" text="You speak too often!"/>
+      <!--  Build UI -->
+      <string id="Clan_build_buildtext" text="Build"/>
+      <string id="Clan_build_demolishtext" text="Demolish"/>
+      <string id="Clan_build_rotatetext" text="Rotate"/>
+      <string id="Clan_build_esctext1" text="Close the build page"/>
+      <string id="Clan_build_esctext2" text="Close the demolish page"/>
+      <string id="Clan_build_demolishhint" text="Demolish Mode"/>
+      <string id="Clan_build_buildhint" text="Buildable quantity"/>
+      <!-- EveryDay-UI -->
+      <string id="Every_title" text="Rewards for Player Activity"/>
+      <string id="Every_text1" text="Activity Description: Complete daily active tasks to get active points, reach points to receive daily active treasure chest and other prizes, when a certain amount of accumulated points can also receive precious prizes."/>
+      <string id="Every_rule" text="Activity rules: Daily active points reset at 00: 00"/>
+      <string id="Every_all" text="Accumulated Activity"/>
+      <string id="Every_Today" text="Today's activity"/>
+      <string id="Every_logGet" text="Log in to claim"/>
+      <string id="Every_activation" text="Activation"/>
+      <string id="Every_bagfull" text="Inventory Full"/>
+      <string id="Inventory_full" text="Your inventory is full and you cannot receive any more items. Please clear your inventory before claiming."/>
+      <string id="Inventory_full1" text="Your inventory is full, please clean up and exchange it."/>
+      <string id="Completed_text" text="Completed"/>
+      <string id="Progress_text" text="In progress"/>
+      <string id="Durability_text" text="Durability"/>
+      <string id="ItemDescription_text" text="Item Description"/>
+      <string id="None_text" text="None"/>
+      <string id="Every_item1" text="One of the fragments of a mysterious treasure map"/>
+      <string id="ItemType" text="Rough-made"/>
+      <string id="ItemType1" text="Excellent"/>
+      <string id="ItemType2" text="Well-refined"/>
+      <string id="ItemType3" text="Rare"/>
+      <string id="ItemType4" text="Valuable"/>
+      <string id="ItemType5" text="Epic"/>
+      <string id="ItemType6" text="Legendary"/>
+      <string id="ItemType7" text="Divine weapon"/>
+      <string id="Every_mission" text="Active Task"/>
+      <string id="Every_mission1" text="Task Description"/>
+      <string id="Every_mission2" text="Progress"/>
+      <string id="Every_mission3" text="Activation"/>
+      <string id="Every_mission4" text="State"/>
+      <string id="Every_mission5" text="Get"/>
+      <string id="Every_mission6" text="One-click collection"/>
+      <string id="Every_boxHInt01" text="Treasure chest for daily activity"/>
+      <string id="Every_boxHInt02" text="Can prescribe a variety of rare items."/>
+      <string id="Every_diner" text="Diner"/>
+      <string id="Every_cdkhint" text="SikaOnline CDKEY"/>
+      <string id="Every_cdkhint1" text="You can redeem specified items after the MOD is officially launched."/>
+      <string id="Every_dinerhint" text="Current money"/>
+      <string id="Every_dinerhint2" text="Can be used to buy items from merchants"/>
+      <string id="Every_merit11" text="Meritorious service to the Kingdom of Erin"/>
+       <string id="Every_merit12" text="Can be used to unlock arms"/>
+
+
+      <string id="danger_1" text="Dangerous Zone"/>
+      <string id="danger_2" text="Leave the danger zone"/>
+
+      <!--CDK-->
+      <string id="CDK_hint" text="CDK Exchange"/>
+      <string id="CDK_Input" text="Enter CDKEY"/>
+      <string id="CDK_Text" text="Please enter the CDKEY."/>
+      <string id="CDK_erro" text="Exchange Failure"/>
+      <string id="CDK_nobag" text="Please reserve enough space for your inventory."/>
+      <string id="CDK_know" text="Know"/>
+      
+      <string id="OneAxe" text="One Handed Axe"/>
+      <string id="OneSword" text="One Handed Sword"/>
+      <string id="Mace" text="Mace"/>
+      <string id="Dagger" text="Dagger"/>
+      <string id="Pike" text="Pike"/>
+      <string id="Tool" text="Tool"/>
+      <string id="TwoHandedAxe" text="Two Handed Axe"/>
+      <string id="TwoHandedSword" text="Two Handed Sword"/>
+      <string id="TwoHandedMace" text="Two Handed Mace"/>
+      <string id="TwoHandedPolearm" text="Two Handed Polearm"/>
+      <string id="Bow" text="Bow"/>
+      <string id="Crossbow" text="Crossbow"/>
+      <string id="Arrow" text="Arrow"/>
+      <string id="Bolt" text="Bolt"/>
+      <string id="Javelin" text="Javelin"/>
+      <string id="ThrowingAxe" text="Throwing Axe"/>
+      <string id="ThrowingKnife" text="Throwing Knife"/>
+      <string id="Shield" text="Shield"/>
+      <string id="HeadArmor" text="HeadArmor"/>
+      <string id="Cape" text="Cape"/>
+      <string id="BodyArmor" text="BodyArmor"/>
+      <string id="HandArmor" text="HandArmor"/>
+      <string id="LegArmor" text="LegArmor"/>
+      <string id="HorseHarness" text="HorseHarness"/>
+      <string id="Horse" text="Horse"/>
+
+      <!--task-->
+      <string id="task_main" text="Main Task"/>
+      <string id="task_other" text="Extension Task"/>
+      <string id="task_ok" text="Completed Task"/>
+
+
+      <string id="Story" text="You wake up on the beach, you climb up, you look around at the ruins of the broken ship, you vaguely remember that you were attacked by a sea monster while you were at sea, and your unconscious dream is still in your head, you try to remember more things, but the headache makes you unable to think... Hunger is flooding in, you find high ground, look around and see a village not far away, you decide to go for help..."/>
+      <string id="Story_con" text="Click anywhere to start the adventure..."/>
+
+
+      <!--Encounter-->
+      <string id="Encounter_001" text="Battle"/>
+      <string id="Encounter_002" text="You've launched a battle. Get your weapons ready!"/>
+      <string id="Encounter_003" text="Battle countdown:"/>
+      <string id="Encounter_004" text="You ran into a gang of robbers!"/>
+      <string id="Encounter_005" text="Get your weapons ready!"/>
+      <string id="Encounter_006" text="Robbers are blocking your way!"/>
+      <string id="Encounter_007" text="It's up to you to save the day or fight..."/>
+      <string id="Encounter_008" text="You're under attack! Get your weapons ready!"/>
+      <string id="Encounter_009" text="You decide to aid your Allies and prepare for battle!"/>
+      <string id="Encounter_010" text="About to join the battlefield..."/>
+      <string id="Encounter_011" text="seconds"/>
+      <string id="Encounter_012" text="Insufficient ransom"/>
+      <string id="Encounter_013"  text="You don't have enough dinars to pay the ransom, so fight your way out"/>
+      <string id="Encounter_pay" text="Pay the ransom:"/>
+
+      <!--Friend-->
+      <string id="Friend_0001" text="Check to have no this person."/>
+      <string id="Friend_0002" text="Add Friends"/>
+      <string id="Friend_0003" text="Search Result"/>
+      <string id="Friend_0004" text="You can't add yourself."/>
+      <string id="Friend_0005" text="Already on the friends list"/>
+      <string id="Friend_0006" text="Application sent"/>
+      <string id="Friend_0007" text="Viewing profiles"/>
+      <string id="Friend_0008" text="Block this message"/>
+      <string id="Friend_0009" text="Send messages"/>
+      <string id="Friend_0010" text="Invite a team"/>
+      <string id="Friend_0011" text="Delete friend"/>
+      <string id="Friend_0012" text="Create a team"/>
+      <string id="Friend_0013" text="Please enter team name: 6 Chinese characters or 20 English characters or a combination of 10 characters"/>
+      <string id="Friend_0014" text="Team invitation"/>
+      <string id="Friend_0015" text="Whether to invite players:"/>
+      <string id="Friend_0016" text="join the team"/>
+      <string id="Friend_0017" text="Only the captain can invite others to join the team"/>
+      <string id="Friend_0018" text="Follow up"/>
+      <string id="Friend_0019" text="Request a friend"/>
+      <string id="Friend_0020" text="Agreed"/>
+      <string id="Friend_0021" text="Rejected"/>
+      <string id="Friend_0022" text="Online friends"/>
+      <string id="Friend_0023" text="Offline friends"/>
+      <string id="Friend_0024" text="Friend List"/>
+      <string id="Friend_0025" text="Search"/>
+      <string id="Frined_0026" text="Friend Request"/>
+      <string id="Friend_0027" text="There are no friend requests to process at the moment."/>
+      <string id="Friend_0028" text="Offline"/>
+      <string id="Friend_0029" text="Agree"/>
+      <string id="Friend_0030" text="Reject"/>
+      <string id="Firend_0031" text="Press Enter to search"/>
+      <string id="Friend_0032" text="Press Enter to close"/>
+      <string id="Friend_0033" text="Your list is empty"/>
+       <string id="Friend_0034" text="No online friends"/>
+       <string id="Friend_0035" text="No offline friends"/>
+       <string id="Send_text" text="Send"/>
+       <string id="Friend_0036" text="Search Name"/>
+      <string id="Friend_0037" text="Search ID"/>
+      <string id="Friend_0038" text="The ID you entered does not conform to the specification."/>
+
+     
+
+      <!-- Prestige Mall -->
+      <string id="Prestige_0001" text="Prestige Mall"/> 
+      <string id="Prestige_0002" text="Prestige returns gifts by defeating special enemies with probability drops, or by traveling to Afdian to support us."/>
+      <string id="Prestige_0003" text="Afdian"/>
+      <string id="Prestige_0004" text="CDK Exchange"/>
+      <string id="Prestige_0005" text="Previous"/>
+      <string id="Prestige_0006" text="Next"/>
+      <string id="Prestige_0007" text="Remaining Time:"/>
+      <string id="Prestige_0008" text="Current Prestige:"/>
+      <string id="Prestige_0009" text="Player Level:"/>
+      <string id="Prestige_0010" text="Your VIP level is 0, no privileges."/>
+      <string id="Prestige_0011" text="Privilege:"/>
+      <string id="Prestige_0012" text="Character experience bonus:"/>
+      <string id="Prestige_0013" text="Partner experience bonus:"/>
+      <string id="Prestige_0014" text="Soldier experience bonus:"/>
+      <string id="Prestige_0015" text="Page"/>
+      <string id="Prestige_0016" text="Day"/>
+      <string id="Prestige_0017" text="Hour"/>
+      <string id="Prestige_0018" text="Minutes"/>
+       <string id="Prestige_0019" text="{DAY}Days {HOUR}Hours {Min}Minutes"/>
+       <string id="Prestige_0020" text="Whether to consume {PRESTIGE} prestige exchange"/>
+       <string id="Prestige_0021" text="Inventory:"/>
+      <string id="Prestige_0022" text="Individual Limit:"/>
+      <string id="Prestige_0023" text="Full Service Limit:"/>
+      
+      <string id="Prestige_0024" text="Takedown Time:"/>
+      <string id="Prestige_0025" text="Time-Kill:"/>
+      <string id="Prestige_0026" text="Coming soon:"/>
+      <string id="Prestige_0027" text="Off the shelf"/>
+      <string id="Prestige_0028" text="Dis"/>
+
+       <!-- CharacterDeveloper -->
+      <string id="CharacterDeveloper_0001" text="Attributes"/>
+      <string id="CharacterDeveloper_0002" text="Strength"/>
+      <string id="CharacterDeveloper_0003" text="Dexterity"/>
+      <string id="CharacterDeveloper_0004" text="Constitution"/>
+      <string id="CharacterDeveloper_0005" text="Charisma"/>
+      <string id="CharacterDeveloper_0006" text="Intelligence"/>
+      <string id="CharacterDeveloper_0007" text="Weapon Mastery"/>
+      <string id="CharacterDeveloper_0008" text="Movement"/>
+      <string id="CharacterDeveloper_0009" text="LeaderShip"/>
+      <string id="CharacterDeveloper_0010" text="Novice"/>
+      <string id="CharacterDeveloper_0011" text="Beginner"/>
+      <string id="CharacterDeveloper_0012" text="Rookie"/>
+      <string id="CharacterDeveloper_0013" text="Proficient"/>
+      <string id="CharacterDeveloper_0014" text="Skilled"/>
+      <string id="CharacterDeveloper_0015" text="Veteran"/>
+      <string id="CharacterDeveloper_0016" text="Expert"/>
+      <string id="CharacterDeveloper_0017" text="Specialist"/>
+      <string id="CharacterDeveloper_0018" text="Master"/>
+      <string id="CharacterDeveloper_0019" text="Grandmaster"/>
+      <string id="CharacterDeveloper_0020" text="Upper limit of proficiency"/>
+      <string id="CharacterDeveloper_0021" text="Basic"/>
+      <string id="CharacterDeveloper_0022" text="Weapon damage:"/>
+      <string id="CharacterDeveloper_0023" text="Weapon speed:"/>
+      <string id="CharacterDeveloper_0024" text="Bow damage:"/>
+      <string id="CharacterDeveloper_0025" text="Bow precision:"/>
+      <string id="CharacterDeveloper_0026" text="Aim speed:"/>
+      <string id="CharacterDeveloper_0027" text="Crossbow precision:"/>
+      <string id="CharacterDeveloper_0028" text="Reload speed:"/>
+      <string id="CharacterDeveloper_0029" text="Thrown weapon speed:"/>
+      <string id="CharacterDeveloper_0030" text="Thrown weapon damage:"/>
+      <string id="CharacterDeveloper_0031" text="Thrown precision:"/>
+      <string id="CharacterDeveloper_0032" text="Movement speed:"/>
+      <string id="CharacterDeveloper_0033" text="Weight panelty reduction:"/>
+      <string id="CharacterDeveloper_0034" text="Knockback resistance:"/>
+      <string id="CharacterDeveloper_0035" text="Knockdown resistance:"/>
+      <string id="CharacterDeveloper_0036" text="Riding diffcult:"/>
+      <string id="CharacterDeveloper_0037" text="Horse speed:"/>
+      <string id="CharacterDeveloper_0038" text="Horse handing:"/>
+      <string id="CharacterDeveloper_0039" text="Horse endurance:"/>
+      <string id="CharacterDeveloper_0040" text="Weapon damage penalty:"/>
+      <string id="CharacterDeveloper_0041" text="Weapon speed and reload penalty:"/>
+      <string id="CharacterDeveloper_0042" text="Dismount resistance:"/>
+      <string id="CharacterDeveloper_0043" text="Troop limit:"/>
+      <string id="CharacterDeveloper_0044" text="Impacts: Health Points, Melee Damage, Swing Speed, Throwing Weapon Speed."/>
+      <string id="CharacterDeveloper_0045" text="Impacts: Running Speed, Stabbing Speed, Reload Speed, Aim Stability Duration."/>
+      <string id="CharacterDeveloper_0046" text="Impacts: Partial Health, Backpack Capacity, Weight Penalty Reduction, Knockback Resistance, Knockdown Resistance."/>
+      <string id="CharacterDeveloper_0047" text="Impacts: Store Item Prices, Item Recycling Prices."/>
+      <string id="CharacterDeveloper_0048" text="Impacts: Experience Gain Efficiency."/>
+      <string id="CharacterDeveloper_0049" text="Available Weapon Proficiency Points: You will receive your first available weapon proficiency point at Level 2, and an additional point every 3 levels thereafter."/>
+      <string id="CharacterDeveloper_0050" text="Available Movement Skill Points: You will receive your first available movement skill point at Level 3, and an additional point every 5 levels thereafter."/>
+      <string id="CharacterDeveloper_0051" text="Available Leadership Skill Points: You will receive your first available leadership skill point at Level 4, and an additional point every 5 levels thereafter."/>
+      <string id="CharacterDeveloper_0052" text="Available Attribute Points: Gain one available attribute point with each level up."/>
+      <string id="CharacterDeveloper_0053" text="Available Attribute Points: This character gains 1 free attribute point every 5 levels."/>
+      <string id="CharacterDeveloper_0054" text="Health Points "/>
+      <string id="CharacterDeveloper_0055" text="Melee Damage "/>
+      <string id="CharacterDeveloper_0056" text="Throwing Weapon Speed "/>
+      <string id="CharacterDeveloper_0057" text="Swing Speed "/>
+      <string id="CharacterDeveloper_0058" text="Running Speed "/>
+      <string id="CharacterDeveloper_0059" text="Stabbing Speed "/>
+      <string id="CharacterDeveloper_0060" text="Reload Speed "/>
+      <string id="CharacterDeveloper_0061" text="Aim Stability Duration "/>
+      <string id="CharacterDeveloper_0062" text="Backpack Capacity "/>
+      <string id="CharacterDeveloper_0063" text="Weight Penalty Reduction "/>
+      <string id="CharacterDeveloper_0064" text="Knockback Resistance (Threshold) "/>
+      <string id="CharacterDeveloper_0065" text="Store Prices "/>
+      <string id="CharacterDeveloper_0066" text="Recycling Prices "/>
+      <string id="CharacterDeveloper_0067" text="Experience Gain Efficiency "/>
+      <string id="CharacterDeveloper_0068" text="Maximum Health Points "/>
+      <string id="CharacterDeveloper_0069" text="Health Points "/>
+      <string id="CharacterDeveloper_0070" text="Costs 1 proficiency point, currently available {num} point"/>
+      <string id="CharacterDeveloper_0071" text="No available proficiency points"/>
+      <string id="CharacterDeveloper_0072" text="Level"/>
+
+      <!--RankUI-->
+      <string id="Rank_0001" text="No special border"/>
+      <string id="Rank_0002" text="Rank"/>
+      <string id="Rank_0003" text="Name"/>
+      <string id="Rank_0004" text="Contribute Today"/>
+      <string id="Rank_0005" text="Daily Contribution Ranking"/>
+      <string id="Rank_0006" text="Total contribution ranking"/>
+      <string id="Rank_0007" text="Total Money Ranking"/>
+      <string id="Rank_0008" text="Total kill monster ranking"/>
+      <string id="Rank_0009" text="Total task ranking"/>
+      <string id="Rank_0010" text="Total Integral:"/>
+      <string id="Rank_0011" text="My Ranking"/>
+      <string id="Rank_0012" text="No Family"/>
+
+  </strings>
+ </base>

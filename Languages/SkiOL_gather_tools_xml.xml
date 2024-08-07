@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="tool001" text="[Tool]Axe"/>
+    <string id="tool002" text="[Tool]Pickaxe"/>
+    <string id="tool003" text="[Tool]Sickle"/>
+    <string id="tool004" text="[Tool] Crude Pickaxe"/>
+    <string id="tool005" text="[Tool] Crude Logging Axe"/>
+    <string id="tool006" text="[Tool] Superior Pickaxe"/>
+    <string id="tool007" text="[Tool] Superior Logging Axe"/>
+    <string id="tool008" text="[Tool] Refined Pickaxe"/>
+    <string id="tool009" text="[Tool] Refined Logging Axe"/>
+  </strings>
+</base>
