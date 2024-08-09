@@ -13,7 +13,7 @@ We welcome any contributions to the multi-language module, whether it's translat
 First, clone our repository to your local machine:
 
 ```sh
-git clone https://https://github.com/BeiJingQingrong/Sika_multilingual.git
+git clone https://github.com/BeiJingQingrong/Sika_multilingual.git
 ```
 
 ### 2. Create a Branch
